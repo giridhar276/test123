@@ -1,0 +1,1001 @@
+Order_ID,Customer_Age,Product_Category,Customer_Segment,Quantity,Unit_Price,Discount_Percent,Payment_Method,City,Final_Amount
+ORD10000,56,Sports,Premium,5,1150.15,20,Wallet,Delhi,4600.6
+ORD10001,46,Fashion,Regular,5,4028.64,25,Credit Card,Chennai,15107.4
+ORD10002,32,Beauty,Premium,1,1767.99,10,Cash on Delivery,Mumbai,1591.19
+ORD10003,60,Electronics,Premium,1,4346.19,10,Cash on Delivery,Mumbai,3911.57
+ORD10004,25,Sports,Regular,1,4589.0,5,Cash on Delivery,Hyderabad,4359.55
+ORD10005,38,Electronics,Regular,4,4320.15,25,UPI,Pune,12960.45
+ORD10006,56,Electronics,Regular,5,319.79,15,Debit Card,Delhi,1359.11
+ORD10007,36,Electronics,Regular,3,3968.76,5,Wallet,Chennai,11310.97
+ORD10008,40,Home,Regular,2,2145.0,5,Cash on Delivery,Hyderabad,4075.5
+ORD10009,28,Books,Regular,4,4387.56,25,Credit Card,Mumbai,13162.68
+ORD10010,28,Home,Regular,3,3244.08,0,Cash on Delivery,Delhi,9732.24
+ORD10011,41,Books,Regular,5,4193.17,5,Debit Card,Kolkata,19917.56
+ORD10012,53,Electronics,Regular,1,2572.24,15,Debit Card,Chennai,2186.4
+ORD10013,57,Sports,Premium,5,2744.87,0,Wallet,Bengaluru,13724.35
+ORD10014,41,Books,Regular,2,850.28,0,UPI,Delhi,1700.56
+ORD10015,20,Beauty,Premium,4,3952.34,20,Wallet,Chennai,12647.49
+ORD10016,39,Beauty,Regular,4,2184.04,25,Cash on Delivery,Hyderabad,6552.12
+ORD10017,19,Fashion,Regular,2,2575.39,20,Credit Card,Bengaluru,4120.62
+ORD10018,41,Books,Wholesale,3,3957.72,25,Wallet,Chennai,8904.87
+ORD10019,61,Sports,Regular,3,3054.4,15,UPI,Chennai,7788.72
+ORD10020,47,Home,Regular,4,1125.33,20,Wallet,Mumbai,3601.06
+ORD10021,55,Electronics,Regular,4,3012.63,10,Debit Card,Pune,10845.47
+ORD10022,19,Fashion,Regular,1,2127.02,15,Cash on Delivery,Delhi,1807.97
+ORD10023,38,Beauty,Regular,3,2427.2,30,Cash on Delivery,Mumbai,5097.12
+ORD10024,50,Home,Regular,2,287.31,5,Cash on Delivery,Kolkata,545.89
+ORD10025,29,Home,Wholesale,3,1168.64,10,Cash on Delivery,Bengaluru,3155.33
+ORD10026,39,Electronics,Regular,1,1513.03,10,Cash on Delivery,Pune,1361.73
+ORD10027,61,Books,Regular,4,3607.86,0,Cash on Delivery,Chennai,14431.44
+ORD10028,42,Beauty,Regular,4,205.74,0,Credit Card,Mumbai,822.96
+ORD10029,44,Sports,Premium,1,2132.57,20,UPI,Pune,1706.06
+ORD10030,59,Home,Regular,2,4631.53,30,Cash on Delivery,Kolkata,6484.14
+ORD10031,45,Electronics,Regular,4,692.62,10,UPI,Delhi,2493.43
+ORD10032,33,Sports,Regular,5,2654.66,0,Cash on Delivery,Kolkata,13273.3
+ORD10033,32,Books,Wholesale,4,3964.63,0,Wallet,Bengaluru,15858.52
+ORD10034,64,Beauty,Regular,5,4721.28,25,Cash on Delivery,Hyderabad,17704.8
+ORD10035,61,Books,Regular,1,3771.87,10,Debit Card,Mumbai,3394.68
+ORD10036,20,Home,Regular,1,3644.74,5,Credit Card,Bengaluru,3462.5
+ORD10037,54,Sports,Premium,4,4158.47,10,Wallet,Hyderabad,14970.49
+ORD10038,24,Sports,Regular,3,2314.08,5,Wallet,Mumbai,6595.13
+ORD10039,38,Sports,Regular,5,4058.35,10,Debit Card,Bengaluru,18262.58
+ORD10040,26,Home,Premium,2,188.63,25,Cash on Delivery,Kolkata,282.94
+ORD10041,56,Home,Premium,4,4634.12,15,Credit Card,Bengaluru,15756.01
+ORD10042,35,Books,Regular,2,2300.04,15,Wallet,Pune,3910.07
+ORD10043,21,Fashion,Wholesale,4,2833.89,10,Credit Card,Kolkata,10202.0
+ORD10044,42,Books,Regular,3,1386.18,20,Wallet,Mumbai,3326.83
+ORD10045,31,Beauty,Regular,3,3751.27,15,Cash on Delivery,Bengaluru,9565.74
+ORD10046,26,Electronics,Regular,3,521.68,0,Wallet,Chennai,1565.04
+ORD10047,43,Sports,Wholesale,3,4382.28,15,Wallet,Mumbai,11174.81
+ORD10048,19,Fashion,Regular,1,4166.37,5,UPI,Bengaluru,3958.05
+ORD10049,37,Electronics,Regular,1,1197.89,20,Cash on Delivery,Pune,958.31
+ORD10050,45,Fashion,Regular,5,4075.22,10,Debit Card,Hyderabad,18338.49
+ORD10051,64,Books,Premium,2,3963.84,30,Debit Card,Hyderabad,5549.38
+ORD10052,24,Home,Regular,4,3216.25,0,Cash on Delivery,Chennai,12865.0
+ORD10053,61,Sports,Regular,4,1961.57,20,Debit Card,Mumbai,6277.02
+ORD10054,25,Books,Regular,1,1466.77,15,Cash on Delivery,Pune,1246.75
+ORD10055,64,Electronics,Regular,4,1274.15,20,Debit Card,Bengaluru,4077.28
+ORD10056,52,Electronics,Regular,1,1695.25,5,UPI,Bengaluru,1610.49
+ORD10057,31,Electronics,Premium,5,4532.26,10,Debit Card,Hyderabad,20395.17
+ORD10058,34,Electronics,Regular,2,526.56,20,Wallet,Pune,842.5
+ORD10059,53,Electronics,Regular,5,4170.03,5,Cash on Delivery,Kolkata,19807.64
+ORD10060,57,Fashion,Premium,3,1842.12,5,Credit Card,Chennai,5250.04
+ORD10061,21,Books,Regular,3,2679.76,15,Credit Card,Hyderabad,6833.39
+ORD10062,19,Sports,Regular,3,4003.26,10,Cash on Delivery,Hyderabad,10808.8
+ORD10063,23,Home,Wholesale,5,4439.23,5,UPI,Chennai,21086.34
+ORD10064,59,Home,Regular,4,1822.19,5,Debit Card,Mumbai,6924.32
+ORD10065,21,Books,Regular,2,2389.94,5,UPI,Bengaluru,4540.89
+ORD10066,46,Books,Regular,3,2160.4,20,Credit Card,Mumbai,5184.96
+ORD10067,35,Home,Regular,3,214.27,15,Cash on Delivery,Pune,546.39
+ORD10068,43,Home,Regular,3,1585.32,20,Cash on Delivery,Kolkata,3804.77
+ORD10069,61,Fashion,Regular,2,2377.07,30,UPI,Delhi,3327.9
+ORD10070,51,Beauty,Regular,3,2143.8,10,UPI,Delhi,5788.26
+ORD10071,27,Sports,Regular,2,3651.36,0,Debit Card,Delhi,7302.72
+ORD10072,53,Electronics,Wholesale,3,2016.3,0,Wallet,Chennai,6048.9
+ORD10073,31,Beauty,Premium,5,2523.48,5,Wallet,Hyderabad,11986.53
+ORD10074,48,Books,Regular,5,2233.6,25,Debit Card,Kolkata,8376.0
+ORD10075,32,Home,Regular,2,3742.04,10,Wallet,Mumbai,6735.67
+ORD10076,25,Beauty,Premium,5,4335.42,5,Credit Card,Bengaluru,20593.24
+ORD10077,31,Sports,Regular,2,2729.66,10,Wallet,Delhi,4913.39
+ORD10078,40,Books,Regular,5,3978.75,15,Debit Card,Mumbai,16909.69
+ORD10079,57,Electronics,Wholesale,5,1589.42,15,Wallet,Delhi,6755.04
+ORD10080,38,Electronics,Regular,2,2775.64,5,Cash on Delivery,Kolkata,5273.72
+ORD10081,33,Sports,Premium,4,1824.37,30,UPI,Delhi,5108.24
+ORD10082,62,Sports,Wholesale,5,2158.87,10,Credit Card,Bengaluru,9714.91
+ORD10083,35,Home,Regular,3,3702.21,0,Cash on Delivery,Pune,11106.63
+ORD10084,64,Electronics,Regular,4,4426.06,25,Cash on Delivery,Pune,13278.18
+ORD10085,41,Books,Regular,2,739.25,0,Debit Card,Kolkata,1478.5
+ORD10086,43,Beauty,Premium,4,3228.0,25,UPI,Pune,9684.0
+ORD10087,42,Books,Wholesale,1,2973.4,30,UPI,Chennai,2081.38
+ORD10088,62,Fashion,Premium,1,724.31,20,Credit Card,Hyderabad,579.45
+ORD10089,58,Fashion,Regular,5,1177.69,20,Debit Card,Chennai,4710.76
+ORD10090,46,Sports,Premium,5,1658.36,5,Credit Card,Mumbai,7877.21
+ORD10091,32,Home,Wholesale,3,959.62,25,Wallet,Chennai,2159.14
+ORD10092,62,Fashion,Premium,4,1332.09,10,Cash on Delivery,Mumbai,4795.52
+ORD10093,18,Electronics,Wholesale,1,1447.86,20,Credit Card,Mumbai,1158.29
+ORD10094,42,Books,Premium,5,1778.02,25,Cash on Delivery,Hyderabad,6667.58
+ORD10095,24,Books,Premium,4,3784.54,30,Debit Card,Bengaluru,10596.71
+ORD10096,26,Sports,Regular,5,2923.77,20,Wallet,Kolkata,11695.08
+ORD10097,41,Beauty,Regular,5,4933.3,5,Debit Card,Hyderabad,23433.18
+ORD10098,18,Sports,Regular,1,2161.47,30,Wallet,Kolkata,1513.03
+ORD10099,61,Beauty,Premium,1,3806.25,15,Wallet,Pune,3235.31
+ORD10100,25,Sports,Regular,5,4376.62,25,Cash on Delivery,Pune,16412.32
+ORD10101,41,Sports,Wholesale,2,3443.05,15,Debit Card,Chennai,5853.18
+ORD10102,28,Sports,Wholesale,5,2147.54,5,Debit Card,Mumbai,10200.82
+ORD10103,34,Beauty,Premium,5,3804.93,10,Credit Card,Delhi,17122.18
+ORD10104,25,Beauty,Regular,3,1137.79,15,Debit Card,Delhi,2901.36
+ORD10105,52,Sports,Regular,3,1738.63,20,Credit Card,Kolkata,4172.71
+ORD10106,52,Fashion,Regular,3,2801.42,5,UPI,Mumbai,7984.05
+ORD10107,50,Home,Premium,2,2940.74,15,UPI,Kolkata,4999.26
+ORD10108,22,Home,Premium,2,257.39,5,UPI,Hyderabad,489.04
+ORD10109,59,Home,Wholesale,5,4733.8,20,Debit Card,Bengaluru,18935.2
+ORD10110,56,Beauty,Regular,3,3528.64,10,Debit Card,Hyderabad,9527.33
+ORD10111,58,Beauty,Wholesale,2,2554.16,0,Credit Card,Mumbai,5108.32
+ORD10112,45,Fashion,Wholesale,1,4675.67,5,Wallet,Mumbai,4441.89
+ORD10113,24,Home,Regular,5,2279.61,0,Credit Card,Bengaluru,11398.05
+ORD10114,26,Home,Wholesale,4,4905.11,10,UPI,Kolkata,17658.4
+ORD10115,25,Sports,Regular,5,2634.58,0,Credit Card,Chennai,13172.9
+ORD10116,29,Beauty,Regular,4,704.29,0,Wallet,Chennai,2817.16
+ORD10117,51,Home,Premium,3,3859.28,25,Debit Card,Bengaluru,8683.38
+ORD10118,50,Books,Regular,4,3442.65,25,Credit Card,Chennai,10327.95
+ORD10119,40,Fashion,Premium,3,3898.99,10,UPI,Delhi,10527.27
+ORD10120,41,Books,Premium,1,4764.49,30,UPI,Chennai,3335.14
+ORD10121,54,Books,Regular,4,3915.97,0,Debit Card,Chennai,15663.88
+ORD10122,52,Fashion,Regular,5,3114.98,15,Credit Card,Chennai,13238.66
+ORD10123,61,Books,Regular,3,4307.95,15,Wallet,Delhi,10985.27
+ORD10124,57,Home,Regular,5,3415.25,10,Debit Card,Kolkata,15368.62
+ORD10125,39,Beauty,Regular,2,2129.38,10,Credit Card,Chennai,3832.88
+ORD10126,44,Fashion,Regular,3,4445.26,10,Cash on Delivery,Pune,12002.2
+ORD10127,52,Sports,Regular,4,1226.22,10,UPI,Delhi,4414.39
+ORD10128,18,Books,Regular,3,3616.01,20,Wallet,Bengaluru,8678.42
+ORD10129,52,Fashion,Regular,5,4425.58,0,Wallet,Hyderabad,22127.9
+ORD10130,54,Electronics,Premium,1,3696.89,5,Wallet,Bengaluru,3512.05
+ORD10131,64,Electronics,Premium,3,3531.79,5,UPI,Hyderabad,10065.6
+ORD10132,31,Beauty,Regular,4,3800.3,5,Credit Card,Bengaluru,14441.14
+ORD10133,20,Home,Regular,2,2405.52,10,Debit Card,Pune,4329.94
+ORD10134,18,Beauty,Wholesale,1,4389.73,0,Credit Card,Hyderabad,4389.73
+ORD10135,22,Beauty,Premium,2,1136.67,25,Debit Card,Hyderabad,1705.0
+ORD10136,43,Beauty,Wholesale,3,767.82,5,Wallet,Mumbai,2188.29
+ORD10137,31,Beauty,Premium,5,1534.72,5,Credit Card,Hyderabad,7289.92
+ORD10138,56,Sports,Regular,5,2728.15,15,Wallet,Hyderabad,11594.64
+ORD10139,44,Sports,Regular,4,2626.22,0,Cash on Delivery,Mumbai,10504.88
+ORD10140,26,Fashion,Regular,5,4129.9,15,Wallet,Chennai,17552.08
+ORD10141,32,Electronics,Regular,1,2112.16,15,Wallet,Chennai,1795.34
+ORD10142,32,Beauty,Regular,5,2499.07,5,Debit Card,Mumbai,11870.58
+ORD10143,43,Fashion,Regular,4,214.83,0,Cash on Delivery,Delhi,859.32
+ORD10144,59,Electronics,Regular,3,2137.24,10,Wallet,Hyderabad,5770.55
+ORD10145,30,Books,Premium,3,3291.71,0,Wallet,Hyderabad,9875.13
+ORD10146,49,Home,Premium,5,225.22,0,Cash on Delivery,Mumbai,1126.1
+ORD10147,56,Sports,Regular,2,1512.28,5,Cash on Delivery,Mumbai,2873.33
+ORD10148,49,Books,Premium,3,1158.59,5,Credit Card,Delhi,3301.98
+ORD10149,21,Electronics,Regular,5,353.63,10,Debit Card,Pune,1591.34
+ORD10150,47,Books,Wholesale,4,2474.41,15,Cash on Delivery,Chennai,8412.99
+ORD10151,54,Home,Regular,5,1031.36,15,Cash on Delivery,Bengaluru,4383.28
+ORD10152,40,Electronics,Wholesale,3,3753.95,0,UPI,Pune,11261.85
+ORD10153,56,Books,Premium,4,4262.45,5,Cash on Delivery,Kolkata,16197.31
+ORD10154,62,Sports,Regular,5,2796.09,25,Debit Card,Chennai,10485.34
+ORD10155,32,Sports,Regular,1,4911.28,15,Wallet,Hyderabad,4174.59
+ORD10156,60,Fashion,Regular,4,2334.82,25,Wallet,Kolkata,7004.46
+ORD10157,46,Books,Regular,1,2639.84,10,Wallet,Pune,2375.86
+ORD10158,53,Beauty,Regular,2,4947.71,15,Wallet,Mumbai,8411.11
+ORD10159,30,Books,Premium,4,1273.01,10,UPI,Delhi,4582.84
+ORD10160,49,Electronics,Regular,1,4721.35,5,Cash on Delivery,Chennai,4485.28
+ORD10161,24,Electronics,Premium,3,357.76,10,Wallet,Delhi,965.95
+ORD10162,39,Books,Wholesale,3,2314.98,10,Credit Card,Kolkata,6250.45
+ORD10163,45,Home,Regular,2,489.52,5,Wallet,Chennai,930.09
+ORD10164,19,Sports,Regular,4,3686.79,5,Cash on Delivery,Pune,14009.8
+ORD10165,59,Electronics,Regular,4,3100.78,20,Wallet,Hyderabad,9922.5
+ORD10166,62,Sports,Premium,4,3577.18,25,UPI,Bengaluru,10731.54
+ORD10167,23,Electronics,Regular,2,1966.23,10,Debit Card,Delhi,3539.21
+ORD10168,45,Fashion,Wholesale,4,1941.99,5,Debit Card,Delhi,7379.56
+ORD10169,45,Beauty,Premium,3,369.8,5,Cash on Delivery,Bengaluru,1053.93
+ORD10170,61,Electronics,Regular,1,1847.23,15,Debit Card,Delhi,1570.15
+ORD10171,61,Sports,Regular,3,4657.05,5,Debit Card,Delhi,13272.59
+ORD10172,37,Fashion,Wholesale,3,1989.25,30,Credit Card,Chennai,4177.42
+ORD10173,47,Electronics,Premium,1,4182.13,5,Cash on Delivery,Chennai,3973.02
+ORD10174,28,Home,Regular,3,4235.28,10,Cash on Delivery,Bengaluru,11435.26
+ORD10175,45,Beauty,Regular,2,1960.22,15,Debit Card,Kolkata,3332.37
+ORD10176,42,Electronics,Premium,1,3215.15,20,Debit Card,Hyderabad,2572.12
+ORD10177,56,Fashion,Regular,3,612.55,10,Debit Card,Pune,1653.88
+ORD10178,50,Home,Wholesale,5,652.84,10,UPI,Pune,2937.78
+ORD10179,18,Books,Regular,3,385.99,30,Wallet,Kolkata,810.58
+ORD10180,44,Fashion,Regular,2,2967.92,0,UPI,Delhi,5935.84
+ORD10181,30,Fashion,Premium,4,2216.44,25,Cash on Delivery,Hyderabad,6649.32
+ORD10182,58,Home,Regular,3,2807.96,0,Credit Card,Bengaluru,8423.88
+ORD10183,20,Fashion,Regular,4,2677.2,20,Wallet,Kolkata,8567.04
+ORD10184,56,Home,Regular,5,1848.48,15,Credit Card,Bengaluru,7856.04
+ORD10185,23,Electronics,Regular,3,3435.75,5,Cash on Delivery,Chennai,9791.89
+ORD10186,25,Home,Premium,1,3828.73,25,Cash on Delivery,Delhi,2871.55
+ORD10187,44,Home,Regular,4,220.95,0,Credit Card,Mumbai,883.8
+ORD10188,26,Beauty,Regular,5,1155.13,5,Credit Card,Bengaluru,5486.87
+ORD10189,54,Home,Premium,1,3609.19,15,Credit Card,Kolkata,3067.81
+ORD10190,50,Home,Premium,1,2025.11,10,Cash on Delivery,Delhi,1822.6
+ORD10191,59,Books,Regular,1,3363.05,15,Debit Card,Hyderabad,2858.59
+ORD10192,61,Electronics,Regular,1,1832.77,0,Credit Card,Kolkata,1832.77
+ORD10193,41,Beauty,Wholesale,3,2045.16,0,Wallet,Chennai,6135.48
+ORD10194,32,Books,Premium,3,919.59,0,Cash on Delivery,Pune,2758.77
+ORD10195,49,Sports,Regular,3,1402.42,5,UPI,Hyderabad,3996.9
+ORD10196,49,Electronics,Regular,5,3086.25,10,UPI,Bengaluru,13888.12
+ORD10197,41,Electronics,Regular,5,2250.84,20,Wallet,Bengaluru,9003.36
+ORD10198,58,Sports,Premium,5,3905.37,25,Debit Card,Hyderabad,14645.14
+ORD10199,29,Home,Wholesale,2,4285.04,20,Credit Card,Bengaluru,6856.06
+ORD10200,56,Books,Premium,5,2776.99,5,Cash on Delivery,Kolkata,13190.7
+ORD10201,19,Fashion,Premium,3,3827.6,10,Credit Card,Delhi,10334.52
+ORD10202,20,Beauty,Premium,3,1638.49,5,Cash on Delivery,Bengaluru,4669.7
+ORD10203,54,Fashion,Regular,2,2162.61,5,UPI,Chennai,4108.96
+ORD10204,34,Sports,Regular,2,3606.97,10,Credit Card,Delhi,6492.55
+ORD10205,19,Electronics,Regular,5,2023.13,0,Wallet,Kolkata,10115.65
+ORD10206,19,Electronics,Regular,4,3004.25,5,Debit Card,Mumbai,11416.15
+ORD10207,45,Beauty,Wholesale,2,1049.06,25,Wallet,Bengaluru,1573.59
+ORD10208,40,Electronics,Regular,1,3058.89,10,Debit Card,Bengaluru,2753.0
+ORD10209,54,Electronics,Regular,3,4328.34,10,Credit Card,Chennai,11686.52
+ORD10210,49,Beauty,Regular,1,4362.9,0,Credit Card,Kolkata,4362.9
+ORD10211,50,Books,Regular,3,3663.07,5,Debit Card,Chennai,10439.75
+ORD10212,18,Books,Regular,3,3766.9,25,UPI,Pune,8475.53
+ORD10213,36,Beauty,Regular,2,2855.95,5,Cash on Delivery,Kolkata,5426.3
+ORD10214,19,Sports,Premium,2,2985.64,10,Wallet,Hyderabad,5374.15
+ORD10215,61,Electronics,Regular,1,798.21,0,Wallet,Hyderabad,798.21
+ORD10216,43,Electronics,Premium,3,2302.72,10,Wallet,Hyderabad,6217.34
+ORD10217,49,Sports,Regular,1,2336.26,0,Credit Card,Chennai,2336.26
+ORD10218,23,Books,Regular,4,4798.71,20,Wallet,Hyderabad,15355.87
+ORD10219,49,Home,Regular,1,2240.77,20,Cash on Delivery,Kolkata,1792.62
+ORD10220,21,Home,Regular,5,2814.31,20,Cash on Delivery,Hyderabad,11257.24
+ORD10221,28,Home,Premium,1,2736.27,5,Debit Card,Mumbai,2599.46
+ORD10222,34,Books,Regular,5,3238.29,20,Credit Card,Hyderabad,12953.16
+ORD10223,55,Books,Regular,5,3778.93,10,Cash on Delivery,Bengaluru,17005.18
+ORD10224,41,Sports,Premium,5,1241.45,10,UPI,Pune,5586.52
+ORD10225,22,Electronics,Regular,4,2714.31,15,Credit Card,Chennai,9228.65
+ORD10226,51,Sports,Regular,1,4155.7,0,Credit Card,Delhi,4155.7
+ORD10227,23,Sports,Premium,1,2396.11,0,Cash on Delivery,Pune,2396.11
+ORD10228,39,Books,Premium,4,1500.52,20,UPI,Mumbai,4801.66
+ORD10229,28,Home,Regular,3,3325.34,5,Debit Card,Chennai,9477.22
+ORD10230,33,Fashion,Wholesale,2,4145.27,15,Cash on Delivery,Kolkata,7046.96
+ORD10231,50,Electronics,Premium,1,456.23,10,UPI,Chennai,410.61
+ORD10232,26,Books,Regular,2,3917.43,25,Credit Card,Bengaluru,5876.14
+ORD10233,23,Home,Premium,4,4134.99,30,UPI,Kolkata,11577.97
+ORD10234,33,Fashion,Regular,3,2388.39,25,Credit Card,Pune,5373.88
+ORD10235,46,Fashion,Regular,3,4919.03,5,Cash on Delivery,Pune,14019.24
+ORD10236,20,Books,Regular,3,3965.54,5,Cash on Delivery,Hyderabad,11301.79
+ORD10237,37,Beauty,Regular,4,3902.26,10,Wallet,Kolkata,14048.14
+ORD10238,53,Electronics,Premium,5,3777.02,0,Wallet,Bengaluru,18885.1
+ORD10239,36,Fashion,Regular,5,880.45,0,Wallet,Hyderabad,4402.25
+ORD10240,43,Books,Premium,2,1203.57,15,Cash on Delivery,Hyderabad,2046.07
+ORD10241,20,Books,Premium,5,2400.35,10,Debit Card,Chennai,10801.58
+ORD10242,36,Home,Regular,5,1430.42,30,Cash on Delivery,Pune,5006.47
+ORD10243,37,Beauty,Premium,3,2163.92,5,UPI,Hyderabad,6167.17
+ORD10244,49,Electronics,Regular,3,4459.05,5,Cash on Delivery,Mumbai,12708.29
+ORD10245,24,Sports,Regular,2,4147.99,0,Cash on Delivery,Mumbai,8295.98
+ORD10246,58,Home,Premium,1,3205.69,25,Credit Card,Pune,2404.27
+ORD10247,50,Fashion,Regular,2,4311.88,20,Credit Card,Mumbai,6899.01
+ORD10248,57,Fashion,Regular,2,3951.3,20,Credit Card,Chennai,6322.08
+ORD10249,56,Home,Regular,4,2230.58,25,Cash on Delivery,Bengaluru,6691.74
+ORD10250,35,Books,Regular,4,1125.17,10,Debit Card,Delhi,4050.61
+ORD10251,57,Fashion,Regular,2,2643.88,10,UPI,Hyderabad,4758.98
+ORD10252,18,Beauty,Regular,2,3720.71,5,UPI,Delhi,7069.35
+ORD10253,28,Electronics,Wholesale,2,2266.64,15,Debit Card,Bengaluru,3853.29
+ORD10254,45,Beauty,Regular,5,3383.84,10,Debit Card,Bengaluru,15227.28
+ORD10255,42,Fashion,Regular,4,607.49,10,UPI,Chennai,2186.96
+ORD10256,40,Sports,Regular,2,3777.82,25,Wallet,Mumbai,5666.73
+ORD10257,48,Electronics,Regular,3,4091.66,30,Credit Card,Mumbai,8592.49
+ORD10258,47,Electronics,Wholesale,3,3578.16,20,Credit Card,Bengaluru,8587.58
+ORD10259,59,Home,Premium,5,4841.23,20,UPI,Chennai,19364.92
+ORD10260,52,Home,Premium,5,4159.26,15,Debit Card,Chennai,17676.86
+ORD10261,24,Sports,Regular,1,4530.0,5,Wallet,Pune,4303.5
+ORD10262,33,Books,Regular,1,4677.82,0,UPI,Kolkata,4677.82
+ORD10263,43,Electronics,Regular,1,4036.54,15,Credit Card,Hyderabad,3431.06
+ORD10264,19,Sports,Premium,5,3420.16,20,Cash on Delivery,Kolkata,13680.64
+ORD10265,18,Home,Regular,5,177.74,0,Debit Card,Mumbai,888.7
+ORD10266,29,Home,Regular,5,2409.25,25,Cash on Delivery,Bengaluru,9034.69
+ORD10267,22,Electronics,Wholesale,3,2920.14,0,UPI,Pune,8760.42
+ORD10268,54,Beauty,Regular,5,1624.55,5,Credit Card,Delhi,7716.61
+ORD10269,49,Fashion,Regular,3,1692.81,15,Wallet,Mumbai,4316.67
+ORD10270,26,Home,Regular,1,4811.62,5,Cash on Delivery,Hyderabad,4571.04
+ORD10271,58,Books,Wholesale,1,4474.8,0,Wallet,Chennai,4474.8
+ORD10272,52,Books,Regular,1,4268.52,5,Credit Card,Bengaluru,4055.09
+ORD10273,36,Home,Premium,2,2119.16,20,Cash on Delivery,Mumbai,3390.66
+ORD10274,33,Beauty,Premium,2,216.44,10,Wallet,Delhi,389.59
+ORD10275,20,Beauty,Regular,4,539.08,15,Wallet,Hyderabad,1832.87
+ORD10276,37,Sports,Premium,4,1664.15,15,Cash on Delivery,Hyderabad,5658.11
+ORD10277,41,Books,Regular,4,226.35,0,Credit Card,Pune,905.4
+ORD10278,50,Sports,Regular,2,233.18,30,Wallet,Mumbai,326.45
+ORD10279,41,Books,Premium,2,4595.53,0,UPI,Delhi,9191.06
+ORD10280,28,Fashion,Wholesale,4,3574.87,30,Cash on Delivery,Hyderabad,10009.64
+ORD10281,25,Fashion,Premium,4,1648.44,10,Debit Card,Bengaluru,5934.38
+ORD10282,53,Electronics,Regular,5,793.33,30,Debit Card,Hyderabad,2776.66
+ORD10283,55,Sports,Regular,4,2631.43,0,Credit Card,Delhi,10525.72
+ORD10284,57,Home,Regular,5,175.93,10,UPI,Chennai,791.68
+ORD10285,37,Sports,Regular,3,4701.31,5,Wallet,Chennai,13398.73
+ORD10286,52,Home,Regular,2,2161.85,0,Debit Card,Pune,4323.7
+ORD10287,42,Beauty,Regular,4,2101.32,15,Credit Card,Mumbai,7144.49
+ORD10288,52,Sports,Regular,2,2044.38,5,UPI,Delhi,3884.32
+ORD10289,42,Beauty,Regular,2,486.24,15,UPI,Pune,826.61
+ORD10290,46,Fashion,Regular,2,3245.86,0,Credit Card,Kolkata,6491.72
+ORD10291,35,Fashion,Regular,3,3705.07,5,Credit Card,Hyderabad,10559.45
+ORD10292,63,Electronics,Premium,1,3429.21,20,Wallet,Kolkata,2743.37
+ORD10293,35,Sports,Regular,4,821.41,10,Credit Card,Hyderabad,2957.08
+ORD10294,19,Beauty,Wholesale,1,2957.37,15,Wallet,Chennai,2513.76
+ORD10295,52,Home,Wholesale,1,2912.0,15,Wallet,Pune,2475.2
+ORD10296,33,Fashion,Regular,1,4361.79,20,Cash on Delivery,Chennai,3489.43
+ORD10297,58,Fashion,Premium,2,1988.77,5,UPI,Bengaluru,3778.66
+ORD10298,53,Home,Regular,5,1951.71,15,UPI,Kolkata,8294.77
+ORD10299,50,Beauty,Regular,2,3149.86,30,UPI,Kolkata,4409.8
+ORD10300,21,Beauty,Regular,2,3220.4,20,Cash on Delivery,Chennai,5152.64
+ORD10301,50,Sports,Regular,1,2426.03,10,Wallet,Bengaluru,2183.43
+ORD10302,31,Sports,Regular,2,2298.84,15,Wallet,Hyderabad,3908.03
+ORD10303,38,Books,Regular,1,2546.62,20,Credit Card,Pune,2037.3
+ORD10304,37,Books,Premium,5,4326.07,15,Cash on Delivery,Bengaluru,18385.8
+ORD10305,25,Electronics,Premium,4,2386.66,0,Credit Card,Pune,9546.64
+ORD10306,24,Fashion,Regular,1,4708.67,5,Cash on Delivery,Kolkata,4473.24
+ORD10307,20,Sports,Premium,5,2594.42,20,Credit Card,Pune,10377.68
+ORD10308,34,Beauty,Regular,4,4753.62,5,Debit Card,Kolkata,18063.76
+ORD10309,50,Home,Regular,3,4189.23,20,UPI,Bengaluru,10054.15
+ORD10310,29,Beauty,Premium,1,1907.79,10,UPI,Kolkata,1717.01
+ORD10311,39,Fashion,Regular,1,4338.66,10,Wallet,Mumbai,3904.79
+ORD10312,39,Books,Regular,3,683.81,0,Debit Card,Kolkata,2051.43
+ORD10313,63,Beauty,Regular,3,4636.48,5,UPI,Chennai,13213.97
+ORD10314,47,Electronics,Regular,1,3213.47,30,Wallet,Bengaluru,2249.43
+ORD10315,55,Fashion,Wholesale,3,413.8,25,Debit Card,Hyderabad,931.05
+ORD10316,55,Books,Regular,2,3274.65,15,UPI,Pune,5566.9
+ORD10317,62,Home,Wholesale,4,4875.1,10,Credit Card,Delhi,17550.36
+ORD10318,25,Books,Regular,4,488.53,15,Cash on Delivery,Bengaluru,1661.0
+ORD10319,44,Electronics,Regular,4,2840.24,15,Debit Card,Chennai,9656.82
+ORD10320,44,Fashion,Regular,2,3776.8,15,Wallet,Kolkata,6420.56
+ORD10321,51,Home,Premium,3,4079.75,0,Debit Card,Pune,12239.25
+ORD10322,38,Electronics,Regular,5,2157.06,15,Wallet,Mumbai,9167.5
+ORD10323,47,Books,Wholesale,3,1140.21,20,Debit Card,Hyderabad,2736.5
+ORD10324,50,Electronics,Premium,1,355.36,30,Wallet,Mumbai,248.75
+ORD10325,45,Fashion,Regular,4,2961.67,0,UPI,Delhi,11846.68
+ORD10326,64,Sports,Wholesale,3,2346.62,20,Credit Card,Bengaluru,5631.89
+ORD10327,50,Electronics,Premium,5,4751.41,15,UPI,Pune,20193.49
+ORD10328,22,Electronics,Premium,1,443.93,10,Credit Card,Bengaluru,399.54
+ORD10329,36,Books,Regular,2,3474.17,0,UPI,Chennai,6948.34
+ORD10330,21,Books,Regular,2,271.09,10,UPI,Bengaluru,487.96
+ORD10331,52,Home,Regular,5,981.46,10,Debit Card,Hyderabad,4416.57
+ORD10332,34,Books,Regular,1,2349.86,5,Cash on Delivery,Delhi,2232.37
+ORD10333,61,Beauty,Regular,4,2356.13,20,Wallet,Mumbai,7539.62
+ORD10334,45,Fashion,Premium,3,3475.65,20,Wallet,Delhi,8341.56
+ORD10335,47,Fashion,Regular,1,4564.53,15,Wallet,Pune,3879.85
+ORD10336,46,Sports,Regular,2,3249.31,25,Credit Card,Bengaluru,4873.96
+ORD10337,63,Sports,Wholesale,5,4774.65,5,Wallet,Pune,22679.59
+ORD10338,23,Fashion,Wholesale,5,4425.84,5,Wallet,Mumbai,21022.74
+ORD10339,52,Sports,Regular,3,2984.82,15,Debit Card,Pune,7611.29
+ORD10340,58,Home,Wholesale,5,4193.89,5,UPI,Chennai,19920.98
+ORD10341,54,Books,Regular,5,3266.5,5,Wallet,Delhi,15515.88
+ORD10342,41,Fashion,Regular,1,531.01,5,Cash on Delivery,Mumbai,504.46
+ORD10343,46,Sports,Premium,4,3741.74,0,Wallet,Mumbai,14966.96
+ORD10344,63,Fashion,Regular,3,610.31,20,Credit Card,Kolkata,1464.74
+ORD10345,48,Beauty,Regular,1,3031.3,5,Credit Card,Mumbai,2879.74
+ORD10346,52,Electronics,Regular,4,3557.8,10,Credit Card,Kolkata,12808.08
+ORD10347,50,Books,Regular,1,472.66,0,Wallet,Hyderabad,472.66
+ORD10348,38,Fashion,Regular,1,1269.35,15,Debit Card,Kolkata,1078.95
+ORD10349,49,Electronics,Regular,5,4591.01,5,Cash on Delivery,Delhi,21807.3
+ORD10350,40,Sports,Premium,4,3139.13,20,Wallet,Pune,10045.22
+ORD10351,50,Electronics,Premium,3,1344.49,10,Debit Card,Kolkata,3630.12
+ORD10352,20,Books,Regular,3,3499.8,5,Debit Card,Mumbai,9974.43
+ORD10353,35,Fashion,Regular,4,3044.37,10,Wallet,Delhi,10959.73
+ORD10354,42,Beauty,Regular,5,2582.64,0,Wallet,Kolkata,12913.2
+ORD10355,59,Sports,Regular,2,4884.51,10,Debit Card,Kolkata,8792.12
+ORD10356,48,Fashion,Premium,1,3464.75,5,Debit Card,Mumbai,3291.51
+ORD10357,20,Books,Regular,5,1970.89,25,Debit Card,Chennai,7390.84
+ORD10358,57,Sports,Regular,4,4030.36,0,Wallet,Chennai,16121.44
+ORD10359,63,Home,Premium,1,4440.23,15,Debit Card,Kolkata,3774.2
+ORD10360,41,Electronics,Premium,3,757.32,5,Credit Card,Chennai,2158.36
+ORD10361,49,Books,Premium,2,1122.68,5,Wallet,Bengaluru,2133.09
+ORD10362,64,Home,Regular,3,1198.7,10,Credit Card,Mumbai,3236.49
+ORD10363,39,Fashion,Regular,4,3502.38,25,UPI,Bengaluru,10507.14
+ORD10364,40,Beauty,Regular,1,3074.74,5,Wallet,Delhi,2921.0
+ORD10365,19,Sports,Regular,4,3152.11,0,UPI,Bengaluru,12608.44
+ORD10366,44,Electronics,Premium,1,4712.75,5,Debit Card,Delhi,4477.11
+ORD10367,59,Sports,Premium,5,3913.17,0,Debit Card,Kolkata,19565.85
+ORD10368,19,Fashion,Premium,2,770.49,0,Cash on Delivery,Delhi,1540.98
+ORD10369,43,Sports,Premium,5,1835.41,15,Debit Card,Delhi,7800.49
+ORD10370,34,Electronics,Regular,5,2261.66,0,UPI,Pune,11308.3
+ORD10371,57,Fashion,Premium,4,2070.41,0,Debit Card,Bengaluru,8281.64
+ORD10372,50,Sports,Regular,2,3396.15,20,Wallet,Pune,5433.84
+ORD10373,26,Beauty,Regular,1,4475.68,10,Debit Card,Kolkata,4028.11
+ORD10374,60,Books,Regular,1,1634.35,0,Cash on Delivery,Mumbai,1634.35
+ORD10375,56,Fashion,Regular,3,2826.6,5,Debit Card,Bengaluru,8055.81
+ORD10376,46,Books,Regular,1,3978.64,15,UPI,Mumbai,3381.84
+ORD10377,59,Fashion,Wholesale,4,2168.66,5,UPI,Mumbai,8240.91
+ORD10378,43,Beauty,Regular,5,965.37,10,Debit Card,Delhi,4344.17
+ORD10379,52,Books,Regular,5,2453.51,0,UPI,Bengaluru,12267.55
+ORD10380,42,Home,Regular,5,417.83,15,UPI,Mumbai,1775.78
+ORD10381,41,Electronics,Premium,2,4720.56,5,Cash on Delivery,Chennai,8969.06
+ORD10382,30,Home,Regular,1,512.88,15,Wallet,Mumbai,435.95
+ORD10383,24,Sports,Premium,4,2276.52,20,Cash on Delivery,Chennai,7284.86
+ORD10384,53,Beauty,Regular,2,2719.92,15,Credit Card,Bengaluru,4623.86
+ORD10385,62,Home,Premium,3,4928.72,5,Cash on Delivery,Kolkata,14046.85
+ORD10386,37,Fashion,Regular,4,955.21,5,Debit Card,Pune,3629.8
+ORD10387,18,Sports,Premium,4,704.99,5,Wallet,Bengaluru,2678.96
+ORD10388,25,Sports,Premium,4,192.22,5,Debit Card,Pune,730.44
+ORD10389,63,Home,Regular,5,904.52,5,Credit Card,Pune,4296.47
+ORD10390,33,Home,Regular,4,1155.27,20,Wallet,Bengaluru,3696.86
+ORD10391,31,Beauty,Regular,1,3208.32,10,UPI,Mumbai,2887.49
+ORD10392,29,Electronics,Regular,4,1215.58,10,Cash on Delivery,Hyderabad,4376.09
+ORD10393,40,Home,Regular,5,249.53,15,Debit Card,Mumbai,1060.5
+ORD10394,32,Home,Premium,4,4159.1,15,Credit Card,Mumbai,14140.94
+ORD10395,45,Books,Regular,3,1923.14,0,UPI,Kolkata,5769.42
+ORD10396,51,Fashion,Regular,3,1865.43,20,Cash on Delivery,Delhi,4477.03
+ORD10397,19,Books,Regular,5,1617.02,5,UPI,Delhi,7680.84
+ORD10398,49,Books,Regular,1,4880.56,20,Cash on Delivery,Mumbai,3904.45
+ORD10399,40,Sports,Wholesale,1,975.06,20,Wallet,Chennai,780.05
+ORD10400,39,Electronics,Regular,2,4506.45,20,UPI,Kolkata,7210.32
+ORD10401,42,Fashion,Premium,5,3917.5,15,UPI,Pune,16649.38
+ORD10402,39,Beauty,Premium,4,520.93,0,UPI,Delhi,2083.72
+ORD10403,39,Beauty,Premium,5,4935.64,10,Wallet,Mumbai,22210.38
+ORD10404,59,Home,Wholesale,2,1466.12,15,Credit Card,Kolkata,2492.4
+ORD10405,23,Home,Regular,5,628.13,10,Cash on Delivery,Hyderabad,2826.58
+ORD10406,32,Beauty,Wholesale,5,4172.17,25,UPI,Chennai,15645.64
+ORD10407,60,Home,Regular,2,3577.38,5,Wallet,Bengaluru,6797.02
+ORD10408,54,Electronics,Regular,1,3143.51,5,Credit Card,Mumbai,2986.33
+ORD10409,50,Books,Premium,4,906.51,5,Cash on Delivery,Kolkata,3444.74
+ORD10410,25,Home,Wholesale,2,2470.71,5,Wallet,Mumbai,4694.35
+ORD10411,61,Sports,Premium,3,3935.7,15,Cash on Delivery,Pune,10036.03
+ORD10412,61,Home,Regular,1,1622.58,20,UPI,Chennai,1298.06
+ORD10413,22,Fashion,Regular,3,1661.7,15,Credit Card,Delhi,4237.34
+ORD10414,56,Electronics,Wholesale,1,165.23,20,Wallet,Delhi,132.18
+ORD10415,21,Fashion,Regular,4,995.08,25,Credit Card,Delhi,2985.24
+ORD10416,23,Fashion,Premium,4,4395.72,20,UPI,Bengaluru,14066.3
+ORD10417,62,Sports,Premium,5,2292.47,0,Credit Card,Kolkata,11462.35
+ORD10418,49,Electronics,Regular,3,4923.54,20,Credit Card,Chennai,11816.5
+ORD10419,47,Electronics,Regular,1,2069.18,5,Debit Card,Chennai,1965.72
+ORD10420,64,Electronics,Regular,4,3618.65,0,Credit Card,Delhi,14474.6
+ORD10421,52,Electronics,Regular,2,1517.31,15,Cash on Delivery,Delhi,2579.43
+ORD10422,57,Electronics,Wholesale,4,1914.48,5,Wallet,Pune,7275.02
+ORD10423,33,Sports,Regular,2,1075.02,0,Debit Card,Hyderabad,2150.04
+ORD10424,30,Home,Wholesale,1,1833.25,0,Wallet,Hyderabad,1833.25
+ORD10425,59,Fashion,Regular,4,2804.1,0,Wallet,Mumbai,11216.4
+ORD10426,47,Electronics,Wholesale,4,4960.1,25,UPI,Mumbai,14880.3
+ORD10427,36,Home,Regular,1,3371.38,0,UPI,Chennai,3371.38
+ORD10428,34,Home,Regular,4,1116.34,5,Debit Card,Chennai,4242.09
+ORD10429,36,Fashion,Regular,2,368.06,10,UPI,Bengaluru,662.51
+ORD10430,45,Sports,Premium,4,762.83,10,UPI,Bengaluru,2746.19
+ORD10431,43,Beauty,Premium,3,2878.39,25,UPI,Hyderabad,6476.38
+ORD10432,54,Beauty,Premium,5,3861.03,0,Wallet,Mumbai,19305.15
+ORD10433,43,Home,Regular,2,4711.03,10,Debit Card,Hyderabad,8479.85
+ORD10434,40,Books,Regular,3,226.74,15,Wallet,Hyderabad,578.19
+ORD10435,26,Books,Regular,1,2685.39,25,Cash on Delivery,Mumbai,2014.04
+ORD10436,29,Fashion,Regular,2,2433.71,15,Wallet,Kolkata,4137.31
+ORD10437,18,Beauty,Regular,5,3331.87,20,Cash on Delivery,Bengaluru,13327.48
+ORD10438,18,Home,Wholesale,5,2863.96,0,Credit Card,Pune,14319.8
+ORD10439,64,Sports,Wholesale,1,3482.14,10,Credit Card,Pune,3133.93
+ORD10440,51,Beauty,Wholesale,1,3341.7,10,Cash on Delivery,Pune,3007.53
+ORD10441,49,Home,Premium,2,717.51,25,Cash on Delivery,Mumbai,1076.26
+ORD10442,42,Home,Regular,4,4028.63,5,Wallet,Delhi,15308.79
+ORD10443,57,Electronics,Regular,1,747.68,5,Cash on Delivery,Delhi,710.3
+ORD10444,62,Sports,Regular,4,3537.87,5,Debit Card,Delhi,13443.91
+ORD10445,18,Electronics,Premium,3,2168.31,0,Credit Card,Chennai,6504.93
+ORD10446,33,Fashion,Regular,5,2642.18,5,Credit Card,Bengaluru,12550.36
+ORD10447,56,Electronics,Regular,4,4531.0,30,Cash on Delivery,Bengaluru,12686.8
+ORD10448,22,Electronics,Regular,5,4465.94,10,UPI,Kolkata,20096.73
+ORD10449,39,Beauty,Regular,4,4116.6,15,UPI,Kolkata,13996.44
+ORD10450,46,Books,Wholesale,3,2624.22,20,Cash on Delivery,Chennai,6298.13
+ORD10451,20,Home,Premium,1,3720.76,10,Debit Card,Hyderabad,3348.68
+ORD10452,29,Sports,Regular,3,2637.55,0,UPI,Kolkata,7912.65
+ORD10453,43,Electronics,Wholesale,1,4367.59,5,Cash on Delivery,Pune,4149.21
+ORD10454,33,Sports,Premium,1,2103.46,5,Debit Card,Delhi,1998.29
+ORD10455,54,Books,Regular,5,4855.64,15,Debit Card,Pune,20636.47
+ORD10456,39,Books,Regular,3,4671.77,10,Wallet,Delhi,12613.78
+ORD10457,46,Electronics,Regular,4,3746.77,0,Debit Card,Pune,14987.08
+ORD10458,31,Fashion,Regular,3,1505.17,10,UPI,Hyderabad,4063.96
+ORD10459,45,Electronics,Wholesale,5,788.52,25,UPI,Pune,2956.95
+ORD10460,22,Beauty,Regular,1,4295.31,20,Cash on Delivery,Pune,3436.25
+ORD10461,64,Home,Wholesale,5,951.72,20,Cash on Delivery,Mumbai,3806.88
+ORD10462,47,Fashion,Regular,2,4293.16,20,Debit Card,Pune,6869.06
+ORD10463,63,Electronics,Regular,2,2530.21,5,Credit Card,Mumbai,4807.4
+ORD10464,22,Sports,Regular,4,2121.8,20,Wallet,Bengaluru,6789.76
+ORD10465,29,Fashion,Regular,5,4530.48,0,Credit Card,Chennai,22652.4
+ORD10466,33,Fashion,Regular,4,3078.68,15,Debit Card,Pune,10467.51
+ORD10467,43,Electronics,Wholesale,4,2946.58,15,Debit Card,Bengaluru,10018.37
+ORD10468,43,Fashion,Regular,2,2860.01,0,Credit Card,Kolkata,5720.02
+ORD10469,38,Sports,Premium,4,1950.17,20,Wallet,Kolkata,6240.54
+ORD10470,56,Books,Regular,2,3960.37,25,Credit Card,Mumbai,5940.56
+ORD10471,53,Fashion,Regular,1,1376.07,5,Cash on Delivery,Pune,1307.27
+ORD10472,50,Books,Regular,5,4703.64,20,UPI,Pune,18814.56
+ORD10473,47,Sports,Regular,4,4485.83,0,Cash on Delivery,Hyderabad,17943.32
+ORD10474,54,Electronics,Regular,2,1786.78,15,UPI,Bengaluru,3037.53
+ORD10475,40,Home,Regular,3,3687.9,10,Debit Card,Delhi,9957.33
+ORD10476,27,Fashion,Regular,4,2930.13,10,Wallet,Delhi,10548.47
+ORD10477,22,Home,Regular,1,1787.6,25,Credit Card,Hyderabad,1340.7
+ORD10478,53,Sports,Regular,1,4944.33,25,Wallet,Mumbai,3708.25
+ORD10479,51,Fashion,Regular,3,272.4,20,Credit Card,Delhi,653.76
+ORD10480,48,Books,Wholesale,2,1375.33,5,Cash on Delivery,Delhi,2613.13
+ORD10481,27,Beauty,Premium,4,2672.36,25,Cash on Delivery,Kolkata,8017.08
+ORD10482,36,Home,Regular,2,2681.47,0,Credit Card,Kolkata,5362.94
+ORD10483,49,Fashion,Regular,1,3006.33,25,Wallet,Chennai,2254.75
+ORD10484,18,Home,Wholesale,2,3795.63,5,Credit Card,Bengaluru,7211.7
+ORD10485,22,Fashion,Premium,1,3173.87,0,Debit Card,Mumbai,3173.87
+ORD10486,62,Electronics,Regular,2,3061.37,15,Cash on Delivery,Pune,5204.33
+ORD10487,21,Books,Wholesale,3,409.55,5,Debit Card,Bengaluru,1167.22
+ORD10488,33,Home,Regular,5,1976.17,5,Cash on Delivery,Mumbai,9386.81
+ORD10489,41,Beauty,Regular,3,1275.47,5,Cash on Delivery,Delhi,3635.09
+ORD10490,33,Beauty,Premium,3,1437.05,0,UPI,Chennai,4311.15
+ORD10491,19,Sports,Regular,5,2838.54,5,Debit Card,Bengaluru,13483.06
+ORD10492,45,Fashion,Wholesale,5,1117.6,0,Debit Card,Delhi,5588.0
+ORD10493,49,Home,Premium,4,1575.65,10,UPI,Mumbai,5672.34
+ORD10494,44,Sports,Regular,4,1299.86,0,Wallet,Bengaluru,5199.44
+ORD10495,37,Home,Regular,3,4750.24,15,Debit Card,Pune,12113.11
+ORD10496,41,Fashion,Regular,3,4731.63,5,Credit Card,Bengaluru,13485.15
+ORD10497,29,Beauty,Regular,1,3108.22,25,UPI,Delhi,2331.16
+ORD10498,52,Electronics,Premium,1,4633.93,25,Debit Card,Bengaluru,3475.45
+ORD10499,50,Beauty,Regular,4,3961.19,5,Wallet,Pune,15052.52
+ORD10500,50,Sports,Regular,4,3011.25,20,Debit Card,Chennai,9636.0
+ORD10501,60,Books,Premium,1,181.21,20,Cash on Delivery,Chennai,144.97
+ORD10502,54,Electronics,Regular,1,3896.7,30,Credit Card,Delhi,2727.69
+ORD10503,29,Sports,Premium,2,3557.07,15,UPI,Mumbai,6047.02
+ORD10504,20,Fashion,Regular,2,3133.98,0,Cash on Delivery,Delhi,6267.96
+ORD10505,18,Electronics,Wholesale,1,3838.06,15,Wallet,Chennai,3262.35
+ORD10506,50,Sports,Regular,2,2637.67,15,Cash on Delivery,Hyderabad,4484.04
+ORD10507,57,Fashion,Regular,5,3564.8,15,Cash on Delivery,Hyderabad,15150.4
+ORD10508,27,Beauty,Regular,4,4685.58,5,Wallet,Bengaluru,17805.2
+ORD10509,60,Books,Regular,4,1972.65,25,Cash on Delivery,Pune,5917.95
+ORD10510,61,Fashion,Premium,1,3584.39,30,UPI,Kolkata,2509.07
+ORD10511,46,Home,Premium,3,2457.09,5,Debit Card,Kolkata,7002.71
+ORD10512,30,Fashion,Premium,1,3420.84,0,Cash on Delivery,Kolkata,3420.84
+ORD10513,29,Fashion,Regular,2,3850.03,5,UPI,Bengaluru,7315.06
+ORD10514,48,Books,Regular,3,370.44,20,Debit Card,Hyderabad,889.06
+ORD10515,63,Home,Regular,2,3286.01,15,Debit Card,Chennai,5586.22
+ORD10516,19,Sports,Regular,5,1249.69,15,Cash on Delivery,Bengaluru,5311.18
+ORD10517,52,Sports,Wholesale,2,3399.66,10,UPI,Kolkata,6119.39
+ORD10518,40,Fashion,Regular,5,2421.4,15,Cash on Delivery,Kolkata,10290.95
+ORD10519,34,Home,Regular,5,3901.73,5,Wallet,Delhi,18533.22
+ORD10520,43,Home,Regular,2,748.49,10,Debit Card,Kolkata,1347.28
+ORD10521,25,Books,Premium,2,3187.66,20,Cash on Delivery,Pune,5100.26
+ORD10522,46,Beauty,Premium,5,1500.58,30,Debit Card,Kolkata,5252.03
+ORD10523,43,Sports,Wholesale,3,4286.96,25,UPI,Delhi,9645.66
+ORD10524,27,Books,Regular,5,4652.66,25,Credit Card,Kolkata,17447.47
+ORD10525,43,Electronics,Regular,4,4982.53,10,Cash on Delivery,Pune,17937.11
+ORD10526,51,Sports,Wholesale,5,4010.64,10,Cash on Delivery,Chennai,18047.88
+ORD10527,58,Books,Premium,3,3805.61,20,Debit Card,Bengaluru,9133.46
+ORD10528,24,Sports,Regular,4,1195.18,25,UPI,Pune,3585.54
+ORD10529,21,Beauty,Premium,1,1779.63,0,Wallet,Delhi,1779.63
+ORD10530,62,Electronics,Premium,1,2408.56,5,UPI,Bengaluru,2288.13
+ORD10531,28,Beauty,Premium,3,3900.9,0,Cash on Delivery,Bengaluru,11702.7
+ORD10532,46,Electronics,Premium,5,4587.58,15,Wallet,Delhi,19497.22
+ORD10533,53,Fashion,Regular,2,1067.32,5,UPI,Hyderabad,2027.91
+ORD10534,42,Books,Regular,3,4623.48,5,Credit Card,Kolkata,13176.92
+ORD10535,38,Electronics,Regular,4,3523.78,0,Debit Card,Pune,14095.12
+ORD10536,53,Beauty,Premium,4,3112.24,5,UPI,Delhi,11826.51
+ORD10537,27,Sports,Premium,1,1119.23,25,UPI,Chennai,839.42
+ORD10538,54,Electronics,Premium,4,419.3,5,Credit Card,Mumbai,1593.34
+ORD10539,26,Books,Regular,3,2907.05,15,Cash on Delivery,Delhi,7412.98
+ORD10540,41,Electronics,Premium,4,3309.85,15,Debit Card,Kolkata,11253.49
+ORD10541,52,Home,Premium,3,1172.29,25,UPI,Kolkata,2637.65
+ORD10542,52,Sports,Premium,2,2848.81,0,Wallet,Bengaluru,5697.62
+ORD10543,53,Books,Premium,1,4303.99,30,UPI,Bengaluru,3012.79
+ORD10544,35,Books,Premium,4,4200.07,15,Debit Card,Delhi,14280.24
+ORD10545,56,Fashion,Regular,3,4647.67,30,UPI,Mumbai,9760.11
+ORD10546,49,Beauty,Regular,5,1924.55,25,Credit Card,Delhi,7217.06
+ORD10547,41,Fashion,Regular,1,1692.54,5,UPI,Mumbai,1607.91
+ORD10548,40,Books,Regular,2,3784.72,0,UPI,Mumbai,7569.44
+ORD10549,49,Sports,Premium,3,2240.9,5,Wallet,Kolkata,6386.56
+ORD10550,54,Electronics,Premium,2,574.61,10,Credit Card,Kolkata,1034.3
+ORD10551,29,Electronics,Regular,2,1521.59,5,Credit Card,Kolkata,2891.02
+ORD10552,30,Sports,Regular,4,2180.12,5,UPI,Chennai,8284.46
+ORD10553,40,Books,Premium,4,1568.7,10,Wallet,Kolkata,5647.32
+ORD10554,42,Electronics,Regular,3,1761.2,0,UPI,Pune,5283.6
+ORD10555,52,Electronics,Regular,5,1574.81,0,UPI,Bengaluru,7874.05
+ORD10556,58,Electronics,Regular,3,351.27,10,Debit Card,Bengaluru,948.43
+ORD10557,47,Beauty,Regular,5,3239.91,0,Debit Card,Mumbai,16199.55
+ORD10558,34,Beauty,Regular,2,3046.87,10,Wallet,Bengaluru,5484.37
+ORD10559,37,Home,Regular,1,3318.91,10,Cash on Delivery,Hyderabad,2987.02
+ORD10560,42,Fashion,Regular,3,1082.7,10,Debit Card,Mumbai,2923.29
+ORD10561,39,Sports,Wholesale,3,1583.92,25,Cash on Delivery,Bengaluru,3563.82
+ORD10562,30,Sports,Regular,5,3155.14,10,Credit Card,Hyderabad,14198.13
+ORD10563,36,Sports,Premium,2,3058.19,10,Debit Card,Chennai,5504.74
+ORD10564,53,Home,Regular,2,2605.7,10,Debit Card,Bengaluru,4690.26
+ORD10565,29,Beauty,Regular,5,1849.5,20,Wallet,Hyderabad,7398.0
+ORD10566,58,Books,Premium,2,4577.72,25,Cash on Delivery,Delhi,6866.58
+ORD10567,36,Books,Regular,4,1797.89,25,Debit Card,Pune,5393.67
+ORD10568,29,Home,Regular,1,2359.75,15,Debit Card,Delhi,2005.79
+ORD10569,26,Books,Regular,3,3438.85,0,Wallet,Hyderabad,10316.55
+ORD10570,24,Sports,Premium,1,2783.65,5,Wallet,Mumbai,2644.47
+ORD10571,45,Fashion,Regular,3,1832.4,0,Cash on Delivery,Kolkata,5497.2
+ORD10572,31,Electronics,Regular,4,2262.88,25,Credit Card,Kolkata,6788.64
+ORD10573,48,Beauty,Premium,2,4003.23,15,Credit Card,Kolkata,6805.49
+ORD10574,36,Beauty,Regular,5,1498.93,20,UPI,Mumbai,5995.72
+ORD10575,64,Home,Premium,4,839.94,5,Debit Card,Bengaluru,3191.77
+ORD10576,33,Beauty,Premium,1,1668.84,20,Cash on Delivery,Kolkata,1335.07
+ORD10577,22,Sports,Wholesale,5,4270.24,5,Debit Card,Delhi,20283.64
+ORD10578,52,Books,Regular,2,581.6,0,Cash on Delivery,Mumbai,1163.2
+ORD10579,29,Sports,Premium,4,4959.73,10,Cash on Delivery,Mumbai,17855.03
+ORD10580,42,Home,Regular,5,2773.86,15,Cash on Delivery,Kolkata,11788.9
+ORD10581,38,Sports,Regular,4,4926.5,10,Debit Card,Delhi,17735.4
+ORD10582,53,Books,Regular,4,4704.13,25,Wallet,Chennai,14112.39
+ORD10583,40,Fashion,Premium,2,2346.15,0,Debit Card,Mumbai,4692.3
+ORD10584,33,Home,Regular,3,1112.68,15,Cash on Delivery,Kolkata,2837.33
+ORD10585,56,Fashion,Regular,5,949.69,10,UPI,Pune,4273.61
+ORD10586,62,Electronics,Regular,2,1313.95,5,Credit Card,Hyderabad,2496.5
+ORD10587,59,Fashion,Premium,4,3594.14,20,Cash on Delivery,Bengaluru,11501.25
+ORD10588,56,Electronics,Premium,2,1473.81,20,UPI,Mumbai,2358.1
+ORD10589,31,Electronics,Premium,3,1805.91,20,Wallet,Pune,4334.18
+ORD10590,48,Fashion,Regular,5,2326.58,25,Cash on Delivery,Pune,8724.67
+ORD10591,22,Home,Regular,3,4579.18,20,UPI,Mumbai,10990.03
+ORD10592,52,Books,Premium,1,1068.56,5,Cash on Delivery,Chennai,1015.13
+ORD10593,40,Sports,Regular,5,174.38,20,Debit Card,Hyderabad,697.52
+ORD10594,46,Sports,Regular,3,441.47,5,UPI,Bengaluru,1258.19
+ORD10595,60,Books,Premium,4,4538.12,5,Debit Card,Mumbai,17244.86
+ORD10596,28,Electronics,Wholesale,5,3290.45,0,Debit Card,Bengaluru,16452.25
+ORD10597,35,Electronics,Premium,5,1474.25,20,UPI,Delhi,5897.0
+ORD10598,64,Home,Premium,2,1009.38,20,Credit Card,Pune,1615.01
+ORD10599,29,Beauty,Wholesale,4,1577.19,5,UPI,Pune,5993.32
+ORD10600,26,Fashion,Regular,1,706.77,20,Credit Card,Mumbai,565.42
+ORD10601,27,Electronics,Regular,3,4716.43,25,Cash on Delivery,Mumbai,10611.97
+ORD10602,61,Sports,Wholesale,2,3953.4,0,Cash on Delivery,Delhi,7906.8
+ORD10603,34,Home,Regular,3,2392.6,5,UPI,Chennai,6818.91
+ORD10604,55,Fashion,Premium,1,4345.07,20,Cash on Delivery,Mumbai,3476.06
+ORD10605,24,Home,Regular,1,1359.87,5,Wallet,Pune,1291.88
+ORD10606,63,Fashion,Regular,5,3628.03,15,Debit Card,Bengaluru,15419.13
+ORD10607,30,Fashion,Premium,1,4302.24,0,Debit Card,Hyderabad,4302.24
+ORD10608,57,Books,Wholesale,3,1880.33,10,Credit Card,Kolkata,5076.89
+ORD10609,59,Electronics,Premium,4,3823.7,20,Cash on Delivery,Bengaluru,12235.84
+ORD10610,26,Home,Regular,4,1581.1,15,Credit Card,Chennai,5375.74
+ORD10611,44,Home,Wholesale,5,1599.46,20,Debit Card,Hyderabad,6397.84
+ORD10612,19,Books,Regular,3,669.23,25,Debit Card,Bengaluru,1505.77
+ORD10613,22,Sports,Regular,3,2284.28,20,Cash on Delivery,Bengaluru,5482.27
+ORD10614,46,Sports,Regular,1,3689.1,15,Wallet,Delhi,3135.73
+ORD10615,54,Electronics,Regular,3,4710.07,0,Wallet,Kolkata,14130.21
+ORD10616,55,Electronics,Regular,2,3078.42,10,Cash on Delivery,Chennai,5541.16
+ORD10617,36,Beauty,Wholesale,1,4336.21,0,Cash on Delivery,Pune,4336.21
+ORD10618,25,Books,Premium,2,4139.1,20,Credit Card,Delhi,6622.56
+ORD10619,62,Sports,Premium,5,990.71,5,Cash on Delivery,Hyderabad,4705.87
+ORD10620,18,Fashion,Regular,4,2506.21,15,Wallet,Kolkata,8521.11
+ORD10621,39,Home,Wholesale,5,717.08,5,Cash on Delivery,Pune,3406.13
+ORD10622,34,Electronics,Wholesale,4,3458.44,20,Credit Card,Delhi,11067.01
+ORD10623,24,Home,Premium,5,4757.01,25,Credit Card,Kolkata,17838.79
+ORD10624,42,Home,Regular,3,814.88,10,Credit Card,Chennai,2200.18
+ORD10625,62,Beauty,Regular,2,3709.33,25,Credit Card,Mumbai,5564.0
+ORD10626,21,Sports,Regular,4,3216.36,5,UPI,Mumbai,12222.17
+ORD10627,53,Electronics,Regular,1,2980.48,10,Cash on Delivery,Hyderabad,2682.43
+ORD10628,23,Home,Regular,2,2042.08,25,Debit Card,Mumbai,3063.12
+ORD10629,48,Electronics,Wholesale,1,1872.39,5,Cash on Delivery,Delhi,1778.77
+ORD10630,36,Fashion,Regular,2,369.46,30,UPI,Hyderabad,517.24
+ORD10631,61,Beauty,Regular,2,1206.86,0,Credit Card,Pune,2413.72
+ORD10632,56,Fashion,Regular,5,223.61,0,UPI,Chennai,1118.05
+ORD10633,44,Electronics,Regular,4,2969.87,25,Wallet,Hyderabad,8909.61
+ORD10634,27,Electronics,Regular,4,663.39,0,Wallet,Pune,2653.56
+ORD10635,43,Sports,Regular,2,4384.14,30,Cash on Delivery,Hyderabad,6137.8
+ORD10636,36,Home,Regular,3,2687.24,30,Cash on Delivery,Bengaluru,5643.2
+ORD10637,56,Home,Premium,3,3543.5,0,Debit Card,Bengaluru,10630.5
+ORD10638,20,Fashion,Wholesale,1,2142.66,10,Debit Card,Hyderabad,1928.39
+ORD10639,62,Beauty,Regular,1,2868.81,5,Wallet,Kolkata,2725.37
+ORD10640,30,Books,Regular,5,4721.9,10,Credit Card,Mumbai,21248.55
+ORD10641,45,Home,Premium,2,551.26,0,UPI,Bengaluru,1102.52
+ORD10642,37,Sports,Regular,1,1381.6,5,Debit Card,Kolkata,1312.52
+ORD10643,45,Fashion,Regular,1,3932.94,10,Debit Card,Kolkata,3539.65
+ORD10644,25,Fashion,Wholesale,2,628.88,10,Credit Card,Chennai,1131.98
+ORD10645,58,Books,Regular,5,516.96,30,Credit Card,Pune,1809.36
+ORD10646,56,Sports,Premium,1,1903.48,20,Cash on Delivery,Delhi,1522.78
+ORD10647,18,Beauty,Regular,5,597.01,20,UPI,Bengaluru,2388.04
+ORD10648,20,Sports,Regular,4,2987.63,10,Credit Card,Hyderabad,10755.47
+ORD10649,30,Beauty,Regular,5,1247.43,20,Debit Card,Mumbai,4989.72
+ORD10650,45,Sports,Premium,3,4494.14,5,Debit Card,Delhi,12808.3
+ORD10651,42,Sports,Regular,3,3949.98,20,Wallet,Pune,9479.95
+ORD10652,50,Electronics,Regular,5,3543.57,30,Credit Card,Kolkata,12402.5
+ORD10653,55,Fashion,Premium,3,3142.18,5,Cash on Delivery,Pune,8955.21
+ORD10654,23,Sports,Regular,4,4337.81,15,UPI,Bengaluru,14748.55
+ORD10655,61,Books,Regular,2,1231.85,20,Cash on Delivery,Pune,1970.96
+ORD10656,62,Sports,Wholesale,3,4384.58,25,Debit Card,Pune,9865.3
+ORD10657,49,Home,Regular,3,3979.04,20,Cash on Delivery,Mumbai,9549.7
+ORD10658,62,Fashion,Premium,5,3778.58,5,Debit Card,Kolkata,17948.26
+ORD10659,64,Home,Premium,4,2872.09,5,Debit Card,Mumbai,10913.94
+ORD10660,38,Fashion,Premium,2,1344.28,0,Debit Card,Mumbai,2688.56
+ORD10661,33,Home,Regular,5,2204.21,20,Debit Card,Hyderabad,8816.84
+ORD10662,38,Sports,Wholesale,5,3998.82,0,Debit Card,Pune,19994.1
+ORD10663,28,Sports,Regular,4,304.13,25,Wallet,Pune,912.39
+ORD10664,54,Electronics,Premium,2,3942.95,0,Cash on Delivery,Pune,7885.9
+ORD10665,53,Books,Regular,4,1314.34,5,Wallet,Chennai,4994.49
+ORD10666,52,Home,Regular,2,849.9,10,Wallet,Mumbai,1529.82
+ORD10667,36,Beauty,Regular,4,711.15,20,Credit Card,Delhi,2275.68
+ORD10668,37,Electronics,Wholesale,5,282.16,0,Credit Card,Bengaluru,1410.8
+ORD10669,35,Home,Wholesale,5,2689.39,10,Credit Card,Kolkata,12102.26
+ORD10670,64,Home,Regular,1,1208.56,10,UPI,Delhi,1087.7
+ORD10671,58,Electronics,Regular,3,4948.74,5,Credit Card,Kolkata,14103.91
+ORD10672,31,Sports,Premium,4,2936.02,0,Cash on Delivery,Hyderabad,11744.08
+ORD10673,32,Home,Regular,1,818.74,20,Wallet,Hyderabad,654.99
+ORD10674,48,Sports,Regular,3,3490.5,10,Cash on Delivery,Kolkata,9424.35
+ORD10675,18,Electronics,Premium,4,4504.06,0,Credit Card,Pune,18016.24
+ORD10676,20,Sports,Regular,2,3764.12,20,UPI,Delhi,6022.59
+ORD10677,33,Fashion,Wholesale,3,520.73,30,UPI,Pune,1093.53
+ORD10678,40,Beauty,Regular,5,4495.04,15,Wallet,Chennai,19103.92
+ORD10679,28,Home,Regular,1,4000.56,10,Cash on Delivery,Hyderabad,3600.5
+ORD10680,29,Books,Regular,3,917.77,25,Debit Card,Hyderabad,2064.98
+ORD10681,27,Beauty,Premium,3,401.16,30,Cash on Delivery,Delhi,842.44
+ORD10682,49,Sports,Regular,5,2852.96,20,Credit Card,Hyderabad,11411.84
+ORD10683,33,Home,Premium,4,906.77,10,Debit Card,Chennai,3264.37
+ORD10684,25,Sports,Regular,2,4197.77,15,UPI,Chennai,7136.21
+ORD10685,55,Fashion,Premium,5,1887.92,20,Wallet,Chennai,7551.68
+ORD10686,29,Electronics,Regular,2,4577.53,5,Wallet,Bengaluru,8697.31
+ORD10687,41,Home,Regular,4,2893.59,10,UPI,Chennai,10416.92
+ORD10688,45,Fashion,Premium,3,1035.96,20,Credit Card,Chennai,2486.3
+ORD10689,25,Fashion,Regular,2,827.05,15,UPI,Bengaluru,1405.98
+ORD10690,45,Home,Regular,1,2945.89,10,Credit Card,Pune,2651.3
+ORD10691,53,Sports,Wholesale,1,3845.14,15,Debit Card,Mumbai,3268.37
+ORD10692,43,Books,Regular,5,3940.3,0,UPI,Hyderabad,19701.5
+ORD10693,25,Fashion,Premium,4,1487.42,10,Credit Card,Chennai,5354.71
+ORD10694,45,Beauty,Regular,5,1140.6,20,Debit Card,Hyderabad,4562.4
+ORD10695,45,Fashion,Premium,5,231.27,5,UPI,Delhi,1098.53
+ORD10696,54,Books,Regular,5,3444.12,5,Wallet,Hyderabad,16359.57
+ORD10697,58,Sports,Regular,1,521.36,30,UPI,Kolkata,364.95
+ORD10698,53,Sports,Wholesale,1,2190.69,5,Cash on Delivery,Pune,2081.16
+ORD10699,44,Beauty,Premium,5,3068.16,5,UPI,Bengaluru,14573.76
+ORD10700,34,Fashion,Regular,1,4694.98,30,Cash on Delivery,Hyderabad,3286.49
+ORD10701,26,Sports,Regular,4,1662.24,20,Debit Card,Hyderabad,5319.17
+ORD10702,50,Books,Wholesale,5,1361.39,15,UPI,Hyderabad,5785.91
+ORD10703,37,Home,Regular,1,3322.68,25,Debit Card,Mumbai,2492.01
+ORD10704,30,Electronics,Premium,2,3153.31,0,Debit Card,Mumbai,6306.62
+ORD10705,45,Electronics,Premium,5,1760.73,20,Credit Card,Delhi,7042.92
+ORD10706,46,Electronics,Regular,5,4651.29,10,Debit Card,Bengaluru,20930.8
+ORD10707,30,Fashion,Regular,4,4247.58,20,Debit Card,Hyderabad,13592.26
+ORD10708,63,Beauty,Premium,3,1236.32,10,UPI,Hyderabad,3338.06
+ORD10709,52,Sports,Regular,3,1309.84,15,UPI,Hyderabad,3340.09
+ORD10710,23,Home,Regular,4,2634.66,10,Wallet,Hyderabad,9484.78
+ORD10711,35,Books,Wholesale,4,3901.82,10,Credit Card,Mumbai,14046.55
+ORD10712,22,Home,Regular,4,363.6,20,Debit Card,Pune,1163.52
+ORD10713,64,Books,Premium,3,3512.68,15,Credit Card,Pune,8957.33
+ORD10714,42,Fashion,Regular,4,3293.94,15,Cash on Delivery,Delhi,11199.4
+ORD10715,19,Electronics,Regular,1,1272.68,10,Debit Card,Kolkata,1145.41
+ORD10716,27,Fashion,Regular,5,3454.56,10,Credit Card,Chennai,15545.52
+ORD10717,47,Beauty,Regular,5,4709.89,20,Wallet,Bengaluru,18839.56
+ORD10718,62,Beauty,Regular,2,376.91,20,Wallet,Pune,603.06
+ORD10719,22,Books,Regular,2,1700.31,15,Debit Card,Kolkata,2890.53
+ORD10720,50,Sports,Premium,5,2275.16,25,Cash on Delivery,Hyderabad,8531.85
+ORD10721,18,Sports,Regular,1,4511.41,20,Wallet,Pune,3609.13
+ORD10722,35,Books,Regular,3,4816.97,15,Wallet,Delhi,12283.27
+ORD10723,49,Beauty,Regular,3,2303.96,15,Cash on Delivery,Chennai,5875.1
+ORD10724,64,Beauty,Regular,1,3787.64,25,Credit Card,Pune,2840.73
+ORD10725,28,Beauty,Regular,3,2728.56,15,Wallet,Delhi,6957.83
+ORD10726,38,Fashion,Regular,4,2758.25,20,UPI,Mumbai,8826.4
+ORD10727,43,Beauty,Regular,5,1498.78,15,Wallet,Chennai,6369.82
+ORD10728,42,Home,Regular,5,1202.24,15,Credit Card,Delhi,5109.52
+ORD10729,39,Electronics,Regular,1,1546.83,5,Credit Card,Kolkata,1469.49
+ORD10730,44,Beauty,Premium,3,2848.19,10,Debit Card,Pune,7690.11
+ORD10731,30,Books,Regular,2,291.4,30,UPI,Mumbai,407.96
+ORD10732,50,Electronics,Regular,2,4550.16,15,Credit Card,Kolkata,7735.27
+ORD10733,51,Fashion,Premium,3,907.98,15,Cash on Delivery,Delhi,2315.35
+ORD10734,58,Books,Regular,2,1217.43,25,UPI,Delhi,1826.14
+ORD10735,52,Electronics,Wholesale,1,2663.64,15,UPI,Kolkata,2264.09
+ORD10736,18,Books,Regular,1,3594.06,10,Cash on Delivery,Pune,3234.65
+ORD10737,38,Fashion,Regular,3,614.29,20,Wallet,Chennai,1474.3
+ORD10738,23,Home,Regular,2,1690.82,20,Cash on Delivery,Mumbai,2705.31
+ORD10739,45,Fashion,Regular,1,4848.07,5,Cash on Delivery,Hyderabad,4605.67
+ORD10740,34,Fashion,Premium,1,1422.36,10,Wallet,Bengaluru,1280.12
+ORD10741,22,Books,Regular,4,1668.29,10,Wallet,Chennai,6005.84
+ORD10742,48,Sports,Wholesale,4,4207.02,10,Wallet,Mumbai,15145.27
+ORD10743,22,Beauty,Regular,1,393.54,10,Wallet,Kolkata,354.19
+ORD10744,55,Beauty,Regular,3,2403.37,10,Wallet,Delhi,6489.1
+ORD10745,20,Home,Regular,5,1991.14,5,Cash on Delivery,Kolkata,9457.92
+ORD10746,40,Home,Regular,5,1685.45,10,Debit Card,Mumbai,7584.52
+ORD10747,54,Beauty,Regular,1,1535.64,0,Debit Card,Kolkata,1535.64
+ORD10748,54,Sports,Premium,1,593.16,15,Credit Card,Kolkata,504.19
+ORD10749,27,Beauty,Premium,1,1676.91,25,Debit Card,Bengaluru,1257.68
+ORD10750,27,Sports,Regular,3,358.8,20,Debit Card,Pune,861.12
+ORD10751,36,Home,Premium,4,3937.67,10,Cash on Delivery,Bengaluru,14175.61
+ORD10752,34,Electronics,Wholesale,1,2081.4,0,Wallet,Hyderabad,2081.4
+ORD10753,38,Books,Wholesale,1,2302.93,5,Wallet,Hyderabad,2187.78
+ORD10754,31,Home,Regular,2,4483.93,10,Cash on Delivery,Bengaluru,8071.07
+ORD10755,26,Home,Premium,3,3341.57,5,Debit Card,Chennai,9523.47
+ORD10756,63,Fashion,Regular,1,189.09,10,Cash on Delivery,Chennai,170.18
+ORD10757,18,Fashion,Wholesale,2,4724.4,5,Credit Card,Kolkata,8976.36
+ORD10758,62,Fashion,Regular,5,1300.15,20,Wallet,Kolkata,5200.6
+ORD10759,30,Books,Regular,1,671.93,10,UPI,Delhi,604.74
+ORD10760,21,Fashion,Premium,1,3875.42,5,Credit Card,Hyderabad,3681.65
+ORD10761,18,Sports,Regular,2,2577.31,20,Credit Card,Delhi,4123.7
+ORD10762,57,Beauty,Wholesale,3,2253.79,5,Cash on Delivery,Hyderabad,6423.3
+ORD10763,49,Electronics,Wholesale,1,1360.09,0,Debit Card,Bengaluru,1360.09
+ORD10764,51,Home,Premium,5,2805.24,15,Wallet,Chennai,11922.27
+ORD10765,45,Sports,Regular,1,1480.77,15,UPI,Kolkata,1258.65
+ORD10766,48,Electronics,Premium,5,4522.68,20,Credit Card,Chennai,18090.72
+ORD10767,25,Sports,Regular,4,1193.74,5,UPI,Bengaluru,4536.21
+ORD10768,56,Sports,Regular,4,4439.12,10,Debit Card,Delhi,15980.83
+ORD10769,43,Home,Premium,5,2863.12,5,Debit Card,Delhi,13599.82
+ORD10770,51,Beauty,Regular,3,4168.17,0,UPI,Mumbai,12504.51
+ORD10771,20,Fashion,Regular,1,3607.3,25,Wallet,Kolkata,2705.48
+ORD10772,29,Books,Wholesale,1,3528.97,20,Debit Card,Kolkata,2823.18
+ORD10773,18,Beauty,Regular,4,1723.08,5,UPI,Kolkata,6547.7
+ORD10774,61,Books,Regular,5,1284.4,15,Credit Card,Hyderabad,5458.7
+ORD10775,22,Home,Wholesale,1,1172.8,5,UPI,Delhi,1114.16
+ORD10776,47,Home,Regular,1,4307.38,25,UPI,Bengaluru,3230.54
+ORD10777,47,Home,Premium,3,4129.07,0,Cash on Delivery,Delhi,12387.21
+ORD10778,34,Electronics,Wholesale,2,2286.78,0,Debit Card,Chennai,4573.56
+ORD10779,64,Books,Wholesale,4,792.16,10,Wallet,Hyderabad,2851.78
+ORD10780,40,Beauty,Premium,4,2003.92,15,Wallet,Kolkata,6813.33
+ORD10781,32,Beauty,Regular,2,3153.82,15,Cash on Delivery,Pune,5361.49
+ORD10782,54,Sports,Regular,1,2353.86,0,Wallet,Mumbai,2353.86
+ORD10783,38,Sports,Premium,3,3933.92,5,UPI,Hyderabad,11211.67
+ORD10784,31,Sports,Wholesale,3,4988.47,10,Cash on Delivery,Chennai,13468.87
+ORD10785,19,Home,Regular,4,1076.99,5,Credit Card,Kolkata,4092.56
+ORD10786,28,Beauty,Regular,3,2379.31,25,Debit Card,Chennai,5353.45
+ORD10787,56,Books,Regular,2,2240.27,0,Debit Card,Chennai,4480.54
+ORD10788,55,Home,Regular,1,1626.79,10,Debit Card,Kolkata,1464.11
+ORD10789,51,Electronics,Premium,2,1110.76,15,UPI,Chennai,1888.29
+ORD10790,55,Sports,Regular,5,468.61,5,Credit Card,Bengaluru,2225.9
+ORD10791,51,Home,Wholesale,4,4452.53,15,Cash on Delivery,Mumbai,15138.6
+ORD10792,35,Home,Premium,3,2186.27,20,Cash on Delivery,Pune,5247.05
+ORD10793,47,Electronics,Regular,5,2559.94,5,Debit Card,Chennai,12159.72
+ORD10794,32,Fashion,Premium,3,4597.17,25,Credit Card,Chennai,10343.63
+ORD10795,44,Beauty,Regular,1,3915.01,15,Credit Card,Delhi,3327.76
+ORD10796,51,Books,Regular,1,782.93,5,Credit Card,Mumbai,743.78
+ORD10797,55,Fashion,Premium,1,2892.29,10,Wallet,Hyderabad,2603.06
+ORD10798,50,Sports,Premium,3,2294.92,5,Wallet,Mumbai,6540.52
+ORD10799,41,Home,Premium,5,4016.47,20,Debit Card,Mumbai,16065.88
+ORD10800,32,Electronics,Regular,1,3662.53,20,Credit Card,Kolkata,2930.02
+ORD10801,47,Electronics,Regular,5,3498.47,20,Credit Card,Kolkata,13993.88
+ORD10802,59,Beauty,Premium,3,1801.64,30,Cash on Delivery,Kolkata,3783.44
+ORD10803,34,Fashion,Regular,5,4054.07,20,Cash on Delivery,Pune,16216.28
+ORD10804,22,Beauty,Regular,3,404.1,15,Debit Card,Mumbai,1030.46
+ORD10805,46,Home,Regular,3,924.18,5,Credit Card,Pune,2633.91
+ORD10806,21,Beauty,Premium,4,1777.77,10,Debit Card,Chennai,6399.97
+ORD10807,27,Books,Regular,3,522.52,0,Cash on Delivery,Kolkata,1567.56
+ORD10808,34,Electronics,Premium,3,1289.72,20,Cash on Delivery,Chennai,3095.33
+ORD10809,27,Electronics,Wholesale,2,4176.23,10,Wallet,Kolkata,7517.21
+ORD10810,34,Sports,Regular,1,4749.02,0,Debit Card,Bengaluru,4749.02
+ORD10811,37,Sports,Regular,4,1627.32,0,Debit Card,Pune,6509.28
+ORD10812,41,Home,Regular,4,1432.9,10,Credit Card,Pune,5158.44
+ORD10813,22,Books,Wholesale,4,1507.48,15,Credit Card,Hyderabad,5125.43
+ORD10814,51,Fashion,Regular,2,1496.94,10,Wallet,Delhi,2694.49
+ORD10815,23,Beauty,Regular,3,324.26,15,UPI,Mumbai,826.86
+ORD10816,19,Home,Regular,1,4645.54,10,UPI,Hyderabad,4180.99
+ORD10817,30,Sports,Premium,5,1186.44,15,UPI,Pune,5042.37
+ORD10818,60,Beauty,Regular,3,2187.02,5,Debit Card,Hyderabad,6233.01
+ORD10819,60,Sports,Premium,2,196.98,0,Debit Card,Bengaluru,393.96
+ORD10820,28,Beauty,Wholesale,3,4311.08,15,Cash on Delivery,Delhi,10993.25
+ORD10821,64,Fashion,Regular,3,3696.11,10,Debit Card,Pune,9979.5
+ORD10822,40,Home,Premium,2,4741.77,0,Debit Card,Pune,9483.54
+ORD10823,33,Beauty,Regular,4,3940.84,10,Debit Card,Mumbai,14187.02
+ORD10824,48,Books,Wholesale,4,1671.48,0,Wallet,Kolkata,6685.92
+ORD10825,28,Electronics,Premium,1,1352.19,10,Debit Card,Delhi,1216.97
+ORD10826,33,Books,Wholesale,1,3533.92,10,Credit Card,Bengaluru,3180.53
+ORD10827,25,Books,Regular,4,1915.95,15,Credit Card,Chennai,6514.23
+ORD10828,21,Electronics,Regular,5,2896.14,20,Cash on Delivery,Hyderabad,11584.56
+ORD10829,57,Books,Regular,3,180.35,5,Wallet,Mumbai,514.0
+ORD10830,21,Beauty,Regular,5,450.15,30,Credit Card,Pune,1575.52
+ORD10831,42,Beauty,Regular,3,2746.53,10,Wallet,Chennai,7415.63
+ORD10832,20,Beauty,Regular,4,2895.45,15,Wallet,Bengaluru,9844.53
+ORD10833,49,Electronics,Regular,1,3794.55,15,Cash on Delivery,Delhi,3225.37
+ORD10834,20,Books,Regular,1,790.03,15,Wallet,Hyderabad,671.53
+ORD10835,44,Electronics,Premium,5,2638.94,10,Debit Card,Mumbai,11875.23
+ORD10836,46,Beauty,Regular,1,1093.07,10,Wallet,Pune,983.76
+ORD10837,49,Books,Regular,4,602.0,0,Cash on Delivery,Pune,2408.0
+ORD10838,36,Books,Regular,5,2140.9,0,Cash on Delivery,Chennai,10704.5
+ORD10839,38,Sports,Regular,3,942.18,10,Cash on Delivery,Chennai,2543.89
+ORD10840,22,Sports,Wholesale,1,1225.64,5,Credit Card,Hyderabad,1164.36
+ORD10841,35,Fashion,Regular,2,1690.14,10,Debit Card,Delhi,3042.25
+ORD10842,45,Home,Premium,1,1408.03,0,Credit Card,Bengaluru,1408.03
+ORD10843,59,Sports,Wholesale,3,574.82,20,UPI,Kolkata,1379.57
+ORD10844,39,Electronics,Premium,5,586.09,25,Debit Card,Delhi,2197.84
+ORD10845,38,Sports,Premium,3,1087.26,25,Wallet,Delhi,2446.34
+ORD10846,23,Fashion,Premium,2,395.21,10,Cash on Delivery,Delhi,711.38
+ORD10847,18,Books,Wholesale,4,3188.32,20,UPI,Kolkata,10202.62
+ORD10848,22,Fashion,Premium,1,1543.53,25,Debit Card,Hyderabad,1157.65
+ORD10849,58,Books,Regular,5,1506.77,10,Credit Card,Kolkata,6780.46
+ORD10850,29,Books,Premium,4,1760.19,5,Cash on Delivery,Hyderabad,6688.72
+ORD10851,43,Home,Regular,3,3364.56,25,Credit Card,Kolkata,7570.26
+ORD10852,63,Sports,Premium,5,4372.57,10,Debit Card,Bengaluru,19676.56
+ORD10853,51,Electronics,Regular,4,3831.57,10,Debit Card,Delhi,13793.65
+ORD10854,31,Electronics,Regular,5,3678.52,5,UPI,Hyderabad,17472.97
+ORD10855,43,Beauty,Regular,2,2499.3,0,Wallet,Kolkata,4998.6
+ORD10856,62,Books,Regular,2,3514.96,20,Credit Card,Bengaluru,5623.94
+ORD10857,44,Electronics,Regular,1,2830.9,15,UPI,Kolkata,2406.26
+ORD10858,26,Home,Regular,1,1198.82,5,Cash on Delivery,Pune,1138.88
+ORD10859,43,Books,Regular,2,1161.65,5,Wallet,Bengaluru,2207.14
+ORD10860,64,Home,Regular,5,1587.5,15,UPI,Delhi,6746.88
+ORD10861,39,Electronics,Premium,2,4567.39,15,Credit Card,Mumbai,7764.56
+ORD10862,64,Electronics,Regular,1,2804.96,5,Debit Card,Delhi,2664.71
+ORD10863,47,Beauty,Regular,2,3709.44,25,Cash on Delivery,Mumbai,5564.16
+ORD10864,60,Electronics,Premium,2,1830.81,0,Credit Card,Bengaluru,3661.62
+ORD10865,34,Books,Regular,5,2127.42,10,Wallet,Pune,9573.39
+ORD10866,43,Books,Regular,4,758.99,15,Wallet,Pune,2580.57
+ORD10867,53,Books,Wholesale,1,980.78,5,Debit Card,Hyderabad,931.74
+ORD10868,18,Beauty,Wholesale,5,4162.68,20,Debit Card,Pune,16650.72
+ORD10869,25,Beauty,Regular,2,2986.47,20,Cash on Delivery,Chennai,4778.35
+ORD10870,52,Electronics,Regular,2,1787.03,20,Cash on Delivery,Bengaluru,2859.25
+ORD10871,32,Fashion,Wholesale,4,4043.83,0,Debit Card,Hyderabad,16175.32
+ORD10872,64,Fashion,Premium,1,1345.62,0,Debit Card,Pune,1345.62
+ORD10873,39,Beauty,Regular,1,4883.76,5,Wallet,Bengaluru,4639.57
+ORD10874,31,Electronics,Premium,3,1822.37,10,Debit Card,Delhi,4920.4
+ORD10875,43,Fashion,Regular,1,1785.96,20,UPI,Pune,1428.77
+ORD10876,45,Electronics,Regular,4,1662.77,20,Credit Card,Kolkata,5320.86
+ORD10877,40,Electronics,Regular,3,742.24,20,Debit Card,Mumbai,1781.38
+ORD10878,31,Electronics,Premium,3,689.02,25,Cash on Delivery,Bengaluru,1550.3
+ORD10879,41,Sports,Regular,2,3293.31,20,UPI,Hyderabad,5269.3
+ORD10880,19,Books,Premium,2,4394.32,5,Cash on Delivery,Delhi,8349.21
+ORD10881,62,Electronics,Regular,1,3984.02,5,UPI,Chennai,3784.82
+ORD10882,43,Sports,Regular,3,834.37,15,Debit Card,Delhi,2127.64
+ORD10883,31,Beauty,Regular,2,2796.07,5,Credit Card,Pune,5312.53
+ORD10884,24,Fashion,Premium,4,662.12,0,Cash on Delivery,Mumbai,2648.48
+ORD10885,20,Books,Regular,2,369.68,10,UPI,Delhi,665.42
+ORD10886,64,Fashion,Regular,2,3333.47,20,Wallet,Chennai,5333.55
+ORD10887,40,Books,Wholesale,3,2745.49,0,Debit Card,Kolkata,8236.47
+ORD10888,63,Fashion,Regular,3,547.81,20,Credit Card,Hyderabad,1314.74
+ORD10889,60,Books,Wholesale,5,319.46,20,Debit Card,Bengaluru,1277.84
+ORD10890,64,Fashion,Regular,4,4950.32,10,Wallet,Mumbai,17821.15
+ORD10891,62,Fashion,Premium,3,295.6,0,Credit Card,Chennai,886.8
+ORD10892,35,Fashion,Regular,1,2305.96,5,Wallet,Pune,2190.66
+ORD10893,55,Fashion,Wholesale,4,2597.4,20,Debit Card,Pune,8311.68
+ORD10894,52,Beauty,Regular,4,718.81,20,UPI,Pune,2300.19
+ORD10895,32,Electronics,Regular,3,969.95,25,Debit Card,Mumbai,2182.39
+ORD10896,42,Home,Regular,4,1856.25,15,Debit Card,Delhi,6311.25
+ORD10897,54,Sports,Regular,3,3844.13,0,Debit Card,Mumbai,11532.39
+ORD10898,45,Home,Regular,2,2609.35,0,Cash on Delivery,Pune,5218.7
+ORD10899,27,Home,Wholesale,5,3243.82,20,Wallet,Kolkata,12975.28
+ORD10900,56,Books,Regular,2,4928.1,5,Wallet,Chennai,9363.39
+ORD10901,34,Electronics,Premium,3,3874.83,5,Wallet,Bengaluru,11043.27
+ORD10902,56,Books,Premium,3,2256.65,10,Cash on Delivery,Bengaluru,6092.96
+ORD10903,39,Electronics,Premium,2,2315.24,0,UPI,Mumbai,4630.48
+ORD10904,43,Electronics,Regular,1,3151.04,5,Debit Card,Pune,2993.49
+ORD10905,61,Fashion,Regular,1,3377.02,10,UPI,Hyderabad,3039.32
+ORD10906,42,Beauty,Premium,1,2578.45,5,Cash on Delivery,Kolkata,2449.53
+ORD10907,34,Fashion,Wholesale,3,3277.58,0,Wallet,Mumbai,9832.74
+ORD10908,30,Beauty,Regular,4,264.13,20,Debit Card,Pune,845.22
+ORD10909,37,Books,Regular,3,2233.67,20,Credit Card,Delhi,5360.81
+ORD10910,42,Beauty,Regular,4,1502.85,5,Credit Card,Bengaluru,5710.83
+ORD10911,21,Books,Wholesale,2,776.5,20,UPI,Bengaluru,1242.4
+ORD10912,27,Home,Regular,5,632.8,10,Wallet,Kolkata,2847.6
+ORD10913,20,Home,Regular,4,3075.48,10,Credit Card,Bengaluru,11071.73
+ORD10914,58,Beauty,Wholesale,1,2689.46,25,UPI,Hyderabad,2017.1
+ORD10915,62,Beauty,Regular,3,1379.88,20,Cash on Delivery,Pune,3311.71
+ORD10916,35,Books,Regular,2,2434.11,20,UPI,Pune,3894.58
+ORD10917,64,Fashion,Premium,1,2537.33,0,UPI,Kolkata,2537.33
+ORD10918,53,Books,Wholesale,2,1095.79,0,UPI,Pune,2191.58
+ORD10919,64,Fashion,Regular,5,3312.65,25,Debit Card,Kolkata,12422.44
+ORD10920,39,Home,Regular,3,3937.46,10,UPI,Pune,10631.14
+ORD10921,51,Electronics,Regular,3,3988.6,5,UPI,Hyderabad,11367.51
+ORD10922,64,Beauty,Regular,5,3071.98,20,Debit Card,Chennai,12287.92
+ORD10923,25,Fashion,Premium,3,2631.45,20,Debit Card,Mumbai,6315.48
+ORD10924,57,Books,Regular,4,445.88,25,Cash on Delivery,Mumbai,1337.64
+ORD10925,61,Home,Regular,2,1545.98,5,Wallet,Pune,2937.36
+ORD10926,36,Fashion,Regular,1,602.37,25,Credit Card,Delhi,451.78
+ORD10927,59,Books,Regular,5,4824.54,0,Credit Card,Bengaluru,24122.7
+ORD10928,58,Beauty,Regular,4,805.14,0,UPI,Hyderabad,3220.56
+ORD10929,54,Beauty,Wholesale,1,886.11,15,Cash on Delivery,Delhi,753.19
+ORD10930,23,Sports,Regular,1,4464.45,0,UPI,Delhi,4464.45
+ORD10931,43,Electronics,Premium,5,4728.05,5,Credit Card,Pune,22458.24
+ORD10932,51,Sports,Premium,4,3864.27,15,Debit Card,Hyderabad,13138.52
+ORD10933,62,Home,Regular,1,176.21,5,Wallet,Mumbai,167.4
+ORD10934,23,Fashion,Regular,1,156.53,5,Cash on Delivery,Bengaluru,148.7
+ORD10935,54,Home,Regular,4,1983.79,5,Debit Card,Mumbai,7538.4
+ORD10936,50,Books,Regular,3,845.47,10,Wallet,Delhi,2282.77
+ORD10937,39,Beauty,Regular,1,239.17,10,Cash on Delivery,Bengaluru,215.25
+ORD10938,38,Sports,Regular,2,2400.72,20,Cash on Delivery,Chennai,3841.15
+ORD10939,23,Sports,Regular,4,4723.85,20,Credit Card,Delhi,15116.32
+ORD10940,23,Sports,Premium,1,1720.52,10,Debit Card,Mumbai,1548.47
+ORD10941,21,Home,Regular,5,3356.53,20,Cash on Delivery,Mumbai,13426.12
+ORD10942,47,Beauty,Premium,2,3313.34,0,Cash on Delivery,Pune,6626.68
+ORD10943,28,Fashion,Regular,1,1367.74,5,Wallet,Mumbai,1299.35
+ORD10944,47,Books,Wholesale,2,3304.56,20,Credit Card,Hyderabad,5287.3
+ORD10945,48,Fashion,Regular,2,1179.82,10,UPI,Delhi,2123.68
+ORD10946,41,Home,Regular,3,741.74,30,Credit Card,Kolkata,1557.65
+ORD10947,26,Books,Premium,2,3551.71,10,UPI,Kolkata,6393.08
+ORD10948,20,Sports,Regular,3,700.19,20,Debit Card,Bengaluru,1680.46
+ORD10949,48,Electronics,Regular,4,4985.01,10,Debit Card,Mumbai,17946.04
+ORD10950,57,Home,Wholesale,3,1039.74,10,Cash on Delivery,Pune,2807.3
+ORD10951,54,Home,Regular,5,3031.59,10,Debit Card,Pune,13642.16
+ORD10952,53,Beauty,Regular,1,2145.17,20,Cash on Delivery,Mumbai,1716.14
+ORD10953,41,Fashion,Premium,4,762.97,10,Credit Card,Hyderabad,2746.69
+ORD10954,48,Home,Wholesale,4,285.04,25,Debit Card,Pune,855.12
+ORD10955,23,Home,Premium,5,3170.25,5,Credit Card,Kolkata,15058.69
+ORD10956,19,Sports,Regular,3,4062.77,0,Credit Card,Bengaluru,12188.31
+ORD10957,37,Sports,Premium,1,4233.78,10,Debit Card,Delhi,3810.4
+ORD10958,45,Books,Regular,3,2491.16,15,Credit Card,Chennai,6352.46
+ORD10959,28,Electronics,Premium,2,3920.66,25,Debit Card,Hyderabad,5880.99
+ORD10960,21,Beauty,Wholesale,3,3413.31,5,Debit Card,Pune,9727.93
+ORD10961,32,Electronics,Premium,4,3662.63,15,Debit Card,Delhi,12452.94
+ORD10962,23,Books,Wholesale,1,2539.11,10,UPI,Chennai,2285.2
+ORD10963,47,Sports,Regular,3,3222.05,15,Credit Card,Mumbai,8216.23
+ORD10964,55,Fashion,Premium,1,4056.8,25,Wallet,Mumbai,3042.6
+ORD10965,19,Sports,Premium,1,2079.74,5,Debit Card,Bengaluru,1975.75
+ORD10966,32,Beauty,Regular,2,4059.0,10,Credit Card,Chennai,7306.2
+ORD10967,28,Sports,Wholesale,2,3021.28,30,Cash on Delivery,Mumbai,4229.79
+ORD10968,25,Beauty,Regular,4,954.62,25,Debit Card,Mumbai,2863.86
+ORD10969,43,Beauty,Premium,5,269.72,15,Debit Card,Kolkata,1146.31
+ORD10970,62,Beauty,Premium,1,1909.35,10,Wallet,Pune,1718.42
+ORD10971,61,Books,Premium,5,2801.48,5,UPI,Bengaluru,13307.03
+ORD10972,22,Beauty,Regular,4,4223.13,10,UPI,Delhi,15203.27
+ORD10973,23,Beauty,Regular,1,768.31,20,Debit Card,Mumbai,614.65
+ORD10974,43,Fashion,Regular,1,4031.0,15,Credit Card,Kolkata,3426.35
+ORD10975,21,Electronics,Wholesale,5,4335.59,5,Cash on Delivery,Hyderabad,20594.05
+ORD10976,36,Home,Regular,3,880.83,5,Cash on Delivery,Hyderabad,2510.37
+ORD10977,37,Electronics,Regular,2,4280.23,5,Credit Card,Delhi,8132.44
+ORD10978,50,Beauty,Premium,3,4958.55,5,Debit Card,Chennai,14131.87
+ORD10979,37,Fashion,Regular,5,3675.17,0,Cash on Delivery,Bengaluru,18375.85
+ORD10980,29,Sports,Premium,2,3956.13,10,UPI,Kolkata,7121.03
+ORD10981,64,Fashion,Premium,3,4972.91,0,Credit Card,Pune,14918.73
+ORD10982,18,Beauty,Wholesale,2,3086.58,5,Wallet,Kolkata,5864.5
+ORD10983,43,Fashion,Regular,1,1643.25,10,Debit Card,Hyderabad,1478.92
+ORD10984,31,Fashion,Regular,3,4212.02,5,Credit Card,Hyderabad,12004.26
+ORD10985,55,Beauty,Regular,2,3130.26,0,Cash on Delivery,Delhi,6260.52
+ORD10986,54,Books,Regular,2,2968.8,5,Debit Card,Chennai,5640.72
+ORD10987,28,Fashion,Regular,2,1380.13,5,UPI,Chennai,2622.25
+ORD10988,53,Home,Regular,3,3818.22,10,Debit Card,Delhi,10309.19
+ORD10989,30,Home,Premium,4,546.09,0,Debit Card,Kolkata,2184.36
+ORD10990,60,Fashion,Premium,3,4632.79,20,UPI,Hyderabad,11118.7
+ORD10991,20,Books,Regular,5,1730.24,25,UPI,Kolkata,6488.4
+ORD10992,50,Sports,Premium,3,769.71,20,Debit Card,Kolkata,1847.3
+ORD10993,23,Beauty,Wholesale,2,2295.48,10,UPI,Bengaluru,4131.86
+ORD10994,27,Home,Premium,1,355.98,25,Credit Card,Hyderabad,266.98
+ORD10995,22,Sports,Premium,3,3470.44,15,UPI,Chennai,8849.62
+ORD10996,40,Fashion,Regular,3,4528.12,0,UPI,Pune,13584.36
+ORD10997,27,Sports,Regular,2,4210.73,10,Debit Card,Kolkata,7579.31
+ORD10998,61,Electronics,Regular,1,767.74,25,Credit Card,Hyderabad,575.81
+ORD10999,19,Home,Regular,1,762.42,5,Wallet,Kolkata,724.3
